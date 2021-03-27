@@ -1,125 +1,125 @@
 #org @gText_ChangeSaveType
-WRONG SAVE TYPE!\nPlease change to Flash 128k.
+Mauvais type de m\emoire!\nVeuillez changer en Flash128k.
 
 #org @gText_MainMenuEnableRTC
-WARNING!\pThe correct system time could\nnot be read.\pEnable the Real Time Clock (RTC),\nand make sure the time is correct.
+Attention!\pLe system correct du temps ne\n peut \ttre lu.\pActivez le Real Time Clock (RTC),\net mettez l'heure correcte.
 
 #org @gText_UsedVar2WildStronger
-[BUFFER][01] used the\n[BUFFER][03].\pThe chance of encountering strong\nwild Pok\emon in this area increased.[FC][09]
+[BUFFER][01] utilise \n[BUFFER][03].\pLa chance de rencontrer de puissants\nPok\emon dans cette zone a augment\e.[FC][09]
 
 #org @gText_UsedVar2WildWeaker
-[BUFFER][01] used the\n[BUFFER][03].\pThe chance of encountering weak\nwild Pok\emon in this area increased.[FC][09]
+[BUFFER][01] utilise \n[BUFFER][03].\pLa chance de rencontrer de faibles\nPok\emon dans cette zone a augment\e.[FC][09]
 
 #org @gText_SecondBagItemCanBeRegisteredToL
-A second item in the Cube can be\nregistered to [L_BUTTON] for easy use.
+Un second objet dans le sac peut\n\ttre enregistr\e avec [L_BUTTON].
 
 #org @gText_AutoRunEnable
-[GREEN]Auto-run[BLACK] has been [GREEN]enabled[BLACK].
+[GREEN]L'Auto-run[BLACK] a \et\e [GREEN]activ\e[BLACK].
 
 #org @gText_AutoRunDisable
-[GREEN]Auto-run[BLACK] has been [GREEN]disabled[BLACK].
+[GREEN]L'Auto-run[BLACK] a \et\e [GREEN]d\esactiv\e[BLACK].
 
 #org @gText_BikeTurboBoostEnable
-[GREEN]Turbo boost[BLACK] has been [GREEN]activated[BLACK].
+[GREEN]Le boost turbo[BLACK] a \et\e [GREEN]activ\e[BLACK].
 
 #org @gText_BikeTurboBoostDisable
-[GREEN]Turbo boost[BLACK] has been [GREEN]deactivated[BLACK].
+[GREEN]Le boost turbo[BLACK] a \et\e [GREEN]d\esactiv\e[BLACK].
 
 #org @gText_PoisonSurvial
-[BUFFER][02] survived the Poison.\nThe Poison faded away!
+[BUFFER][02] a surv\ecu au Poison.\nLe Poison a disparu!
 
 #org @gText_ThrowInOnePremierBall
-You also get a [BUFFER][03] as\nan added bonus.[FC][09]
+Vous obtenez aussi [BUFFER][03] comme\nautre bonus.[FC][09]
 
 #org @gText_ThrowInPremierBalls
-You also get [BUFFER][02] [BUFFER][03]s as\nan added bonus.[FC][09]
+Vous obtenez aussi [BUFFER][02] [BUFFER][03]s\n comme autre bonus.[FC][09]
 
 #org @gText_AskUseAnotherRepel
-The repellent's effect wore off!\nWould you like to use another one?
+L'effet du repousse se dissipe.\nVoulez-vous utiliser un autre ?
 
 #org @gText_UsedAnotherRepel
-[BUFFER][01] used a [BUFFER][04].
+[BUFFER][01] utilise un [BUFFER][04].
 
 #org @gText_RepelWoreOff
-The repellent's effect wore off!
+L'effet du repousse se dissipe.
 
 #org @gText_FoundMultipleItems
-[PLAYER] found [BUFFER1] [BUFFER2]!
+[PLAYER] trouve [BUFFER1] [BUFFER2]!
 
 #org @gText_ObtainedMultipleItems
-Obtained [BUFFER1] [BUFFER2]!
+Obtient [BUFFER1] [BUFFER2]!
 
 #org @gText_ObtainedTMHM
-Obtained a [BUFFER][03]!\nIt contains [BUFFER][02].
+obtient une [BUFFER][03]!\ncontenant [BUFFER][02].
 
 #org @gText_UseWhichRegisteredItem
-Use which item?
+Utiliser quel objet?
 
 #org @gText_ScurriedToNearestHealer
-[PLAYER] scurried to the nearest healer,\nprotecting the exhausted and fainted\nPok\emon from further harm[.]\p
+[PLAYER] se h\ote vers un centre Pok\emon\npour \eviter que ses pauvres Pok\emon\nne souffrent davantage[.]\p
 
 #org @gText_WantToScaleCliff
-The wall is very rocky[.]\nWould you like to use [BUFFER2]?
+Le mur est tr\rs rocheux[.]\nVoulez-vous utiliser [BUFFER2]?
 
 #org @gText_RockIsRocky
-The wall is very rocky[.]\nWill a Pok\emon's move scale it?
+Le mur est tr\es rocheux[.]\nUn pok\emon pourrait l'escalader?
 
 #org @gText_DefogBlewAwayFog
-[BUFFER1] blew away the fog!
+[BUFFER1] a dissip\e le\nbrouillard!
 
 #org @gText_WaterDyed
-The water is dyed a deep blue[.]
+L'eau est teinte d'un bleu\nprofond[.]
 
 #org @gText_WaterMurkyBrown
-The water is a murky brown[.]
+L'eau est d'un brun trouble.
 
 #org @gText_WaterMurkyBrownUseSurf
-The water is a murky brown[.]\nWould you like to Surf?
+L'eau est d'un brun trouble[.]\nVoulez-vous Surfer?
 
 #org @gText_LikeToLavaSurf
 The magma glistens a crimson red[.]\nWould you like to surf on it?
 
 #org @gText_LavaSurfedWith
-[BUFFER1] started surfing on\nthe magma!
+[BUFFER1] a commenc\e \a surfer\nsur le magma!
 
 #org @gText_LavaDyed
-The magma glistens a crimson red[.]
+Le magma brille d'un rouge cramoisi[.]
 
 #org @gText_WantToDive
-The sea is deep here.\nWould you like to use [BUFFER2]?
+La mer est profonde.\nVoulez vous utiliser [BUFFER2]?
 
 #org @gText_WantToSurface
-Light is filtering down from above.\nWould you like to use [BUFFER2]?
+La lumi\rre filtre d'en haut.\nVoulez vous utiliser [BUFFER2]?
 
 #org @gText_CantDive
-The sea is deep here. A Pok\emon\nmay be able to go underwater.
+La mer est profonde. Un Pok\emon\npeut \ttre apte \a aller sous l'eau.
 
 #org @gText_CantSurface
-Light is filtering down from above.\nA Pok\emon may be able to surface.
+La lumi\rre filtre d'en haut.\nUn Pok\emon pourrait atteindre la surface.
 
 #org @gText_DoorIsLocked
-The door is locked.
+La porte est ferm\ee.
 
 #org @gText_PsychicBarrier
-There appears to be some sort of\nPsychic barrier in the way.
+Il semble y avoir une sorte de\nbarri\rre psychique sur le chemin.
 
 #org @gText_ClimbLadder
-Would you like to climb the\nladder?
+Voulez-vous escalader\nl'\echelle?
 
 #org @gText_CantReachLadder
-You can't reach the ladder from\nhere!
+VOus ne pouvez atteindre l'\echelle\nici!
 
 #org @gText_FollowNarrowPath
-Look!\nYou've found a narrow path.\pWill you follow it?
+Tiens?\nIl y a un passage praticable\pVoulez vous y entrer?
 
 #org @gText_FollowNarrowPathNowhere
-The narrow path went nowhere.
+Le passage ne menait nulle part.
 
 #org @gText_WantToUseHeadbutt
-It's a moderately sized tree.\nWould you like to use Headbutt?
+C'est un arbre de taille moyenne.\nVoulez-vous utiliser Coup d'Boule?
 
 #org @gText_TreeCanBeHeadbutted
-There's a formidable tree that\nlooks like it can be headbutted!
+Il y a un arbre formidable qui\nsemble pouvoir \ttre secou\e!
 
 #org @gText_StartMining
 The wall is bulging slightly.\nTry digging into it?
@@ -127,95 +127,95 @@ The wall is bulging slightly.\nTry digging into it?
 //Mart Strings
 
 #org @gText_SingleTmBuy
-[BUFFER][02] [BUFFER][04],\nThat will be \$[BUFFER][03]. Okay?
+[BUFFER][02] [BUFFER][04],\n\ca fera \$[BUFFER][03]. C'est bon?
 
 #org @gText_AlreadyOwnTM
-You already own that TM.[FC][09]
+Viys avez d\ej\a cette CT.[FC][09]
 
 //Bag Strings
 
 #org @gText_WantToSortItems
-Sort this pocket's\nitems how?
+Comment trier les\nobjets?
 
 #org @gMenuText_ByType
 Type
 
 #org @gMenuText_ByName
-Name
+Nom
 
 #org @gMenuText_ByMost
-Most
+Plus
 
 #org @gMenuText_ByLeast
-Least
+Moins
 
 #org @gMenuText_ByAmount
-Amount
+Quantit\e
 
 #org @gText_name
-name
+nom
 
 #org @gText_type
 type
 
 #org @gText_most
-most
+plus
 
 #org @gText_least
-least
+moins
 
 #org @gText_amount
-amount
+quantit\e
 
 #org @gText_SortItemsBy
-Sort items by\n[BUFFER1]?
+Ranger par\n[BUFFER1]?
 
 #org @gText_ItemsSortedBy
-Items sorted by\n[BUFFER1]!
+Les objects ont \et\e\nrang\e par[BUFFER1]!
 
 //Battle Tower Pokemon Select
 
 #org @gOtherText_NoMoreOnePoke
-No more than one Pok\emon\nmay enter.[FC][09]
+Pas plus d'un Pok\emon\npouvant entrer.[FC][09]
 
 #org @gOtherText_NoMoreFourPoke
-No more than four Pok\emon\nmay enter.[FC][09]
+Pas plus de quatre Pok\emon\npouvant entrer.[FC][09]
 
 #org @gOtherText_NoMoreFivePoke
-No more than five Pok\emon\nmay enter.[FC][09]
+Pas plus de cinq Pok\emon\npouvant entrer.[FC][09]
 
 #org @gText_First
-FIRST
+PREMIER
 
 #org @gText_Second
 SECOND
 
 #org @gText_Third
-THIRD
+TROISIEME
 
 #org @gText_Fourth
-FOURTH
+QUATRIEME
 
 #org @gText_Fifth
-FIFTH
+CINQUIEME
 
 #org @gText_Sixth
-SIXTH
+SIXIEME
 
 #org @gText_PokemonAreNeeded
-[BUFFER][02] Pok\emon are needed.
+[BUFFER][02] Pok\emon sont n\ecessaires.
 
 #org @gText_EnterNumber
-Enter a Number
+Entrez un num\ero
 
 #org @gText_EnterPhrase
-Enter a Phrase
+Entrez une phrase
 
 #org @gText_EnterPassword
-Enter Password
+Entrez un mot de passe.
 
 #org @gText_Purchased
-Purchased
+Achet\e
 
 #org @gText_StopZooming
-Stop zooming!
+Arr\tter de zoomer!

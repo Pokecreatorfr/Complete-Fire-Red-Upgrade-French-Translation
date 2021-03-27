@@ -1,59 +1,59 @@
 #org @gText_SingleBattleRecord
-Single Battle Record
+Record match solo
 
 #org @gText_DoubleBattleRecord
-Double Battle Record
+Record match double
 
 #org @gText_MultiBattleRecord
-Multi Battle Record
+Record match multi
 
 #org @gText_LinkMultiBattleRecord
-Link Multi Battle Record
+Record Match Link Multi
 
 #org @gText_SingleRandomBattleRecord
-Rand Single Btl Record
+Record random solo
 
 #org @gText_DoubleRandomBattleRecord
-Rand Double Btl Record
+Record random double
 
 #org @gText_MultiRandomBattleRecord
-Rand Multi Btl Record
+Record random multi
 
 #org @gText_SingleBattle
-Single Battle
+Match Solo
 
 #org @gText_DoubleBattle
-Double Battle
+Match Double
 
 #org @gText_MultiBattle
-Multi Battle
+Match Multi
 
 #org @gText_LinkMultiBattle
-Link Multi Battle
+Match Link Multi
 
 #org @gText_RandomSingleBattle
-Random Single Battle
+Match Random Solo
 
 #org @gText_RandomDoubleBattle
-Random Double Battle
+Match Random Double
 
 #org @gText_RandomMultiBattle
-Random Multi Battle
+Match Random Multi
 
 #org @gText_FrontierRecordLevel5
-Level 5
+Niveau 5
 
 #org @gText_FrontierRecordLevel50
-Level 50
+Niveau 50
 
 #org @gText_FrontierRecordLevel100
-Level 100
+Niveau 100
 
 #org @gText_CurrentStreak
-Current Streak:\nRecord Streak:
+S\erie actuelle:\nRecord s\erie:
 
 #org @gText_MaxStreak
-Record Streak:
+Record S\erie:
 
 #org @gText_3v3
 3 v 3
@@ -68,7 +68,7 @@ Record Streak:
 Standard
 
 #org @gText_NoRestrictions
-No Restrictions
+Pas de Restrictions
 
 #org @gText_SmogonGen7OU
 Smogon Gen 7 OU
@@ -140,114 +140,114 @@ on
 off
 
 #org @gText_BeAble
-be able
+\ttre capable
 
 #org @gText_NotBeAble
-not be able
+ne pas \ttre capable
 
 #org @gText_Previous
-Previous
+Pr\ec\edent
 
 #org @gText_Max
 Max
 
 #org @gText_None
-None
+Aucun
 
 //Preceded by "The next battle will take place"
 
 #org @gText_BattleCircusDescriptionElectricTerrain
-with the battlefield electrified!\pGrounded Pok\emon can't fall asleep\nand have stronger Electric-moves!
+Avec le champ \electrifi\e!\pLes Pok\emon \a terre ne s'endorment pas\net ont des moves Electriks puissantes!
 
 #org @gText_BattleCircusDescriptionGrassyTerrain
-with the battlefield grassy!\pGrounded Pok\emon have stronger\nGrass-moves and heal every turn!
+Avec le champ herbu!\pLes Pok\emon \a terre ont des puissant\nmoves plantes et se soignent \a chaque tour!
 
 #org @gText_BattleCircusDescriptionMistyTerrain
-with the battlefield misty!\pGrounded Pok\emon have stronger\nFairy-moves and can't be afflicted\lwith status conditions!
+Avec le champ brumeux!\pLes Pok\emon \a terre ont des puissants\nmoves F\ee et ne peuvent \ttre afflig\e\lde status conditions!
 
 #org @gText_BattleCircusDescriptionPsychicTerrain
-with the battlefield weird!\pGrounded Pok\emon have stronger\nPsychic-moves and can't be hit\lby priority moves!
+Avec le champ psychique!\pLes Pok\emon \a terre ont des puissants\nmoves psy et ne peuve \ttre\ltouch\e par les priorit\es!
 
 #org @gText_BattleCircusDescriptionRain
-in the rain!
+Dans la pluie!
 
 #org @gText_BattleCircusDescriptionSun
-in the sun!
+Dans le soleil!
 
 #org @gText_BattleCircusDescriptionSandstorm
-in a sandstorm!
+Dans une temp\tte de sable!
 
 #org @gText_BattleCircusDescriptionHail
-in a hailstorm!
+Dans une gr\tle!
 
 #org @gText_BattleCircusDescriptionFog
 under the cover of a deep fog[.]
 
 #org @gText_BattleCircusDescriptionTrickRoom
-in a Trick Room!\pSlower Pok\emon get to move first!
+Dans une distorsion!\pLes Pok\emons les plus lents agissent en\npremier!
 
 #org @gText_BattleCircusDescriptionMagicRoom
-in a Magic Room!\pMost held items have no effect!
+Dans une zone magique!\pLa plupart des objects n'ont pas d'effets!
 
 #org @gText_BattleCircusDescriptionWonderRoom
-in a Wonder Room!\pDefense and Sp. Def stats are\nswapped!
+Dans une zone \etrange!\pLa d\efense et SpDef sont \echang\ees!
 
 #org @gText_BattleCircusDescriptionGravity
-with intense gravity!\pNo Pok\emon will remain airborne!
+Avec intense gravity!\pAucun Pok\emon ne restera dans les airs!
 
 #org @gText_BattleCircusDescriptionIonDeluge
-with a deluge of ions in the air!\pAll Normal-type moves will become\nElectric-type!
+avec un d\eluge d'ions dans l'air!\pTous les moves de type Normal deviendront\nElectrique!
 
 #org @gText_BattleCircusDescriptionFairyLock
-with the battlefield locked down!\pNo Pok\emon will be able to switch\nout!
+avec le champ de bataille verrouill\e!\pAucun Pok\emon ne pourra \ttre\nswitch!
 
 #org @gText_BattleCircusDescriptionMudSport
-with mud showering the battlefield!\pAll Electric-type moves will be\nweakened!
+avec de la boue inondant l'endroit!\pToutes les attaques \electrik\nseront affaiblies!
 
 #org @gText_BattleCircusDescriptionWaterSport
-with water in the air!\pAll Fire-type moves will be\nweakened!
+Avec de l'eau dans l'air!\pToutes les attaques feu seront\naffaiblies!
 
 #org @gText_BattleCircusDescriptionInverseBattle
-in an Inverse Battle!\pAll type matchups are reversed!
+Dans un match invers\ee!\pTous les types matchups sont invers\ees!
 
 #org @gText_BattleCircusDescriptionDynamax
-with a Power Spot active!\pAll Pok\emon will be able to\nDynamax!\pHowever, no Pok\emon may Mega\nEvolve, undergo Primal Reversion,\lUltra Burst, or use Z-Moves!
+Avec un Power Spot actif!\pTous les Pok\emon seront capable de\nDynamax!\pMais, aucun Pok\emon ne peut\nMegaEvoluer, ou Primo-R\esurgence,\lUltra-Exploser, ou utiliser les Z-Moves!
 
 #org @gText_BattleCircusDescriptionTradeMon
-with Pok\emon swapped!\pEach side will use one of the\nopposing side's Pok\emon at random!
+Avec les Pok\emon \echang\es!\pChaque camp utilisera l'un des\npok\emons adverses au hasard!
 
 #org @gText_BattleCircusDescriptionSafeguard
-with a veil protecting both sides\lof the battlefield!\pNo Pok\emon may inflict status\nconditions on another!
+avec un voile prot\egeant les deux c\mt\es\du combat!\pAucun Pok\emon n'inflige de\nconditions de statut \a d'autres!
 
 #org @gText_BattleCircusDescriptionMist
-with Mist surrounding both sides\lof the battlefield!\pNo Pok\emon may have their stats\nlowered by another!
+avec une brume entourant les deux c\mt\es\ldu combat!\pAucun Pok\emon ne peut avoir ses stats\ndiminuer par un autre!
 
 #org @gText_BattleCircusDescriptionSeaOfFire
-with a Sea of Fire engulfing both\lsides of the battlefield!\pAll non-Fire-type Pok\emon will be\ndamaged each turn!
+avec une mer de feu engloutissant les\ndeux c\mt\es du combat!\pTous les autres types seront\nendomag\es chaque tour!
 
 #org @gText_BattleCircusDescriptionRainbow
-with a Rainbow present on both\lsides of the battlefield!\pAll moves have their secondary\neffect chance doubled!
+avec un arc-en-ciel pr\esent sur les\ldeux c\mt\es du combat!\pToutes les attaques ont leur effet\nsecondaire une chance doubl\ee!
 
 #org @gText_BattleCircusDescriptionConfused
-with all Pok\emon confused!
+Avec tous les Pok\emon confus!
 
 #org @gText_BattleCircusDescriptionTaunt
-with all Pok\emon taunted!\pNo status moves can be used!
+Avec tous les Pok\emon provoqu\es!\pAucune attaque de statut ne peut \ttre utilis\e!
 
 #org @gText_BattleCircusDescriptionTorment
-with all Pok\emon tormented!\pNo move can be used twice in a row.
+Avec tous les Pok\emon tourment\es!\pAucune attaque ne peut \ttre utilis\e deux fois d'affil\e.
 
 #org @gText_BattleCircusDescriptionHealBlock
-with all Pok\emon Heal Blocked!\pNo Pok\emon will be able to heal!
+Avec tous les Pok\emon bloqu\ees de soin!\pAucun Pok\emon ne pourra se soigner!
 
 #org @gText_BattleCircusDescriptionThroatChop
-with all Pok\emon Throat Chopped!\pNo sound-based moves can be used!
+Avec Ex\ecu-son!\pAucune attaque sonore ne peut \ttre utilis\ee!
 
 #org @gText_BattleCircusDescriptionAlwaysCrit
-with all Pok\emon Laser Focused!\pMoves will always score critical\nhits!
+Avec tous les Pok\emon affil\e!\pLes attaques seront toujours\ncritiques!
 
 #org @gText_BattleCircusDescriptionNoCrits
-with no Pok\emon being able to\lscore a critical hit!
+Avec aucun Pok\emon capable d'infliger\lun coup critique!
 
 #org @gText_BattleCircusDescriptionAbilitySuppression
-with all Pok\emon having their\labilities suppressed!
+Avec tous les Pok\emon ayant leurs\ltalents supprim\es!

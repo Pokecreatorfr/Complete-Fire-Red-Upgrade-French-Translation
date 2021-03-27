@@ -1,96 +1,96 @@
 #org @gText_AirLockActivate
-The effects of weather\ndisappeared.
+Les effets de la m\et\eo\n se dissipent!
 
 #org @gText_PressureActivate
-[SCRIPTING_BANK] is exerting\nits pressure!
+[SCRIPTING_BANK]augmente\n la pression!
 
 #org @gText_MoldBreakerActivate
-[SCRIPTING_BANK] breaks\nthe mold!
+[SCRIPTING_BANK] brise\nle moule!
 
 #org @gText_TeravoltActivate
-[SCRIPTING_BANK] is radiating\na bursting aura!
+[SCRIPTING_BANK] d\egage\nune aura \elecrtique instable!
 
 #org @gText_TurboblazeActivate
-[SCRIPTING_BANK] is radiating\na blazing aura!
+[SCRIPTING_BANK] d\egage une\naura de flammes incandescentes!
 
 #org @gText_SlowStartActivate
-[SCRIPTING_BANK] couldn't get\ngoing!
+[SCRIPTING_BANK] n'arrive pas \a se\nmotiver!
 
 #org @gText_UnnerveActivate
-[FD][37] team is too\nnervous to eat Berries!
+L'\equipe est tendue et ne peut plus\nmanger de baies!
 
 #org @gText_DarkAuraActivate
-[SCRIPTING_BANK] is radiating\na dark aura!
+[SCRIPTING_BANK] d\egage une aura\na t\en\ebreuse!
 
 #org @gText_FairyAuraActivate
-[SCRIPTING_BANK] is radiating\na fairy aura!
+[SCRIPTING_BANK] d\egage une aura\na enchanteresse!
 
 #org @gText_AuraBreakActivate
-[SCRIPTING_BANK] reversed all\nother Pok\emon's auras!
+[SCRIPTING_BANK] inverse toutes les\nauras!
 
 #org @gText_ComatoseActivate
-[SCRIPTING_BANK] is drowsing!
+Le [SCRIPTING_BANK] est en hyper \nsommeil!
 
 #org @gText_AnticipationActivate
-[SCRIPTING_BANK] shuddered!
+[SCRIPTING_BANK] est tout tremblant!
 
 #org @gText_ForewarnActivate
 It was alerted to\n[EFFECT_BANK]'s\l[BUFFER][00]!
 
 #org @gText_FriskActivate
-[SCRIPTING_BANK] frisked\n[TARGET] and found\lits [LAST_ITEM]!
+Le [SCRIPTING_BANK] fouille\n[TARGET] et trouve un(e)[LAST_ITEM]!
 
 #org @gText_FogIsDeep
-The fog is deep[.]
+La brume est \epaisse[.]
 
 #org @gText_PrimordialSeaActivate
-A heavy rain began to fall!
+Une pluie battante s'abat\n soudainement!
 
 #org @gText_DesolateLandActivate
-The sunlight turned extremely harsh!
+Les rayons du soleil s'intenifient!
 
 #org @gText_DeltaStream
-Mysterious strong winds are protecting\nFlying-type Pok\emon!
+Un vent myst\erieux enveloppe les \nPok\emon de type Vol!
 
 #org @gText_SlowStartEnd
-[SCRIPTING_BANK] got its\nact together!
+[SCRIPTING_BANK] est motiv\e!
 
 #org @gText_FlashFirePowerUp
-The power of [SCRIPTING_BANK]'s\nFire-type moves rose!
+Le [SCRIPTING_BANK]augmente\nsa puissance de Feu!
 
 #org @gText_AbilityCuredStatusProblem
-[SCRIPTING_BANK] was cured of\nits [BUFFER][00] problem!
+[SCRIPTING_BANK] est soign\e de son\nprobl\rme de statut!
 
 #org @gText_HealerCuredStatusProblem
-[EFFECT_BANK] was cured of\nits [BUFFER][00] problem!
+[EFFECT_BANK] est soign\e de son\nprobl\rme de statu!
 
 #org @gText_MagicBounce
-[SCRIPTING_BANK] bounced the\n[CURRENT_MOVE] back!
+[SCRIPTING_BANK] renvoie la capacit\e\n[CURRENT_MOVE]!
 
 #org @gText_StartedSchooling
-[SCRIPTING_BANK] formed\na school!
+[SCRIPTING_BANK] se rassemble avec \nses amis!
 
 #org @gText_StoppedSchooling
-[SCRIPTING_BANK] stopped\nschooling!
+[SCRIPTING_BANK] revient sous sa forme\nsolitaire!
 
 #org @gText_GorillaTacticsMoveMenuBlockage
-[CURRENT_MOVE] can't be selected\nbecause of [LAST_ABILITY]!\p
+[CURRENT_MOVE] ne peut pas \ttre \nutilis\e \a cause d'[LAST_ABILITY]!\p
 
 #org @gText_IceFaceTookDamage
-The Ice Face took damage for\n[TARGET]!
+La t\tte de gel prend les d\egats \a la\nplace de [TARGET]!
 
 #org @gText_IceFaceBusted
-[TARGET]'s Ice Face\nshattered!
+la t\tte de gel de [TARGET] est\nbris\ee!
 
 #org @gText_ScreenCleanerActivate
-All screens on the field were\ncleansed!
+Les murs n'ont plus d'effet!
 
 #org @gText_NeutralizingGasActivate
-Neutralizing Gas fills the area!
+Un Gaz Inhibiteur envahit les lieux!
 
 #org @gText_NeutralizingGasEnd
-The effects of Neutralizing Gas\nwore off!
+Les effets du Gaz Inhibiteur\n dispara\qssent!
 
 #org @gText_PkmnHurtsWith
-[ATTACKER] was hurt!
+[ATTACKER] est bless\e!
 

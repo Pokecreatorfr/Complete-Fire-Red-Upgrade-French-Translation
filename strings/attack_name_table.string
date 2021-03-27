@@ -15,7 +15,7 @@ Poing Karat\e
 Torgnoles
 
 #org @NAME_COMET_PUNCH
-Poing Comète
+Poing Com\rte
 
 #org @NAME_MEGA_PUNCH
 Ultimapoing
@@ -117,7 +117,7 @@ B\elier
 Mania
 
 #org @NAME_DOUBLE_EDGE
-Damoclès
+Damocl\rs
 
 #org @NAME_TAIL_WHIP
 Mimi-Queue
@@ -159,7 +159,7 @@ Entrave
 Acide
 
 #org @NAME_EMBER
-Flammèche
+Flamm\rche
 
 #org @NAME_FLAMETHROWER
 Lance-Flammes
@@ -168,7 +168,7 @@ Lance-Flammes
 Brume
 
 #org @NAME_WATER_GUN
-Pistolet à O
+Pistolet \a O
 
 #org @NAME_HYDRO_PUMP
 Hydrocanon
@@ -273,7 +273,7 @@ Jet-Pierres
 S\eisme
 
 #org @NAME_FISSURE
-Abîme
+Ab\qme
 
 #org @NAME_DIG
 Tunnel
@@ -294,8 +294,8 @@ Hypnose
 Yoga
 
 #org @NAME_AGILITY
-Hâte
-
+H\ote
+g
 #org @NAME_QUICK_ATTACK
 Vive-Attaque
 
@@ -306,7 +306,7 @@ Fr\en\esie
 T\el\eport
 
 #org @NAME_NIGHT_SHADE
-T\enèbres
+T\en\rbres
 
 #org @NAME_MIMIC
 Copie
@@ -342,7 +342,7 @@ Boul'Armure
 Bouclier
 
 #org @NAME_LIGHT_SCREEN
-Mur Lumière
+Mur Lumi\rre
 
 #org @NAME_HAZE
 Bu\ee Noire
@@ -366,7 +366,7 @@ Mimique
 Destruction
 
 #org @NAME_EGG_BOMB
-Bombe Œuf
+Bombe \Xuf
 
 #org @NAME_LICK
 L\echouille
@@ -393,7 +393,7 @@ Claquoir
 M\et\eores
 
 #org @NAME_SKULL_BASH
-Coud'Krâne
+Coud'Kr\one
 
 #org @NAME_SPIKE_CANNON
 Picanon
@@ -417,7 +417,7 @@ Pied Voltige
 Intimidation
 
 #org @NAME_DREAM_EATER
-D\evorêve
+D\evor\tve
 
 #org @NAME_POISON_GAS
 Gaz Toxik
@@ -480,7 +480,7 @@ Rock Slide
 Croc de Mort
 
 #org @NAME_SHARPEN
-Affûtage
+Aff\utage
 
 #org @NAME_CONVERSION
 Conversion
@@ -603,10 +603,10 @@ Charge Os
 Verrouillage
 
 #org @NAME_OUTRAGE
-Colère
+Col\rre
 
 #org @NAME_SANDSTORM
-Tempêtesable
+Temp\ttesable
 
 #org @NAME_GIGA_DRAIN
 Giga-Sangsue
@@ -627,7 +627,7 @@ Faux-Chage
 Vantardise
 
 #org @NAME_MILK_DRINK
-Lait à Boire
+Lait \a Boire
 
 #org @NAME_SPARK
 \Etincelle
@@ -708,7 +708,7 @@ Corps Perdu
 Aurore
 
 #org @NAME_SYNTHESIS
-Synthèse
+Synth\rse
 
 #org @NAME_MOONLIGHT
 Rayon Lune
@@ -729,7 +729,7 @@ Danse Pluie
 Z\enith
 
 #org @NAME_CRUNCH
-Mâchouille
+M\ochouille
 
 #org @NAME_MIRROR_COAT
 Voile Miroir
@@ -738,7 +738,7 @@ Voile Miroir
 Boost
 
 #org @NAME_EXTREMESPEED
-Vit.Extrême
+Vit.Extr\tme
 
 #org @NAME_ANCIENTPOWER
 Pouv.Antique
@@ -768,7 +768,7 @@ Brouhaha
 Stockage
 
 #org @NAME_SPIT_UP
-Relâche
+Rel\oche
 
 #org @NAME_SWALLOW
 Avale
@@ -777,7 +777,7 @@ Avale
 Canicule
 
 #org @NAME_HAIL
-Grêle
+Gr\tle
 
 #org @NAME_TORMENT
 Tourmente
@@ -792,7 +792,7 @@ Feu Follet
 Souvenir
 
 #org @NAME_FACADE
-Façade
+Fa\cade
 
 #org @NAME_FOCUS_PUNCH
 Mitra-Poing
@@ -822,7 +822,7 @@ Tourmagik
 Imitation
 
 #org @NAME_WISH
-Voeu
+V\yu
 
 #org @NAME_ASSIST
 Assistance
@@ -846,7 +846,7 @@ Vendetta
 Casse-Brique
 
 #org @NAME_YAWN
-Bâillement
+B\oillement
 
 #org @NAME_KNOCK_OFF
 Sabotage
@@ -900,7 +900,7 @@ Danse-Plume
 Danse Folle
 
 #org @NAME_BLAZE_KICK
-Pied Brûleur
+Pied Br\uleur
 
 #org @NAME_MUD_SPORT
 Lance-Boue
@@ -1080,7 +1080,7 @@ Aqua-Jet
 Hydroqueue
 
 #org @NAME_AURA_SPHERE
-Aurasphère
+Aurasph\rre
 
 #org @NAME_AVALANCHE
 Avalanche
@@ -1122,7 +1122,7 @@ Vampi-Poing
 Telluriforce
 
 #org @NAME_ENERGY_BALL
-\Eco-Sphère
+\Eco-Sph\rre
 
 #org @NAME_FOCUS_BLAST
 Exploforce
@@ -1134,7 +1134,7 @@ Forte-Paume
 Giga Impact
 
 #org @NAME_GRASS_KNOT
-Nœud Herbe
+N\yud Herbe
 
 #org @NAME_GUNK_SHOT
 D\etricanon
@@ -1143,13 +1143,13 @@ D\etricanon
 Marto-Poing
 
 #org @NAME_HEAD_SMASH
-Fracass'Tête
+Fracass'T\tte
 
 #org @NAME_ICE_SHARD
 \Eclats Glace
 
 #org @NAME_IRON_HEAD
-Tête de Fer
+T\tte de Fer
 
 #org @NAME_LAVA_PLUME
 \Ebullilave
@@ -1227,7 +1227,7 @@ Nitrocharge
 Souffle Glac\e
 
 #org @NAME_HEART_STAMP
-Crève-Coeur
+Cr\rve-C\yur
 
 #org @NAME_HONE_CLAWS
 Aiguisage
@@ -1287,7 +1287,7 @@ Danse du Feu
 Bain de Smog
 
 #org @NAME_LEAF_STORM
-Tempêteverte
+Temp\tteverte
 
 #org @NAME_STONE_EDGE
 Lame de Roc
@@ -1311,7 +1311,7 @@ Boutefeu
 Feu d'Enfer
 
 #org @NAME_HEX
-Châtiment
+Ch\otiment
 
 #org @NAME_DUAL_CHOP
 Double Baffe
@@ -1353,7 +1353,7 @@ Vibra Soin
 Luminocanon
 
 #org @NAME_BUG_BITE
-Piqûre
+Piq\ure
 
 #org @NAME_PLUCK
 Picore
@@ -1392,7 +1392,7 @@ VentF\e\erique
 RegardTouchant
 
 #org @NAME_PLAY_ROUGH
-Câlinerie
+C\olinerie
 
 #org @NAME_MOONBLAST
 Pouv. Lunaire
@@ -1404,22 +1404,22 @@ Vampibaiser
 \Eclat Magique
 
 #org @NAME_DISARM_CRY
-Voix enjôl.
+Voix enj\ml.
 
 #org @NAME_STEALTH_ROCK
-Piège de Roc
+Pi\rge de Roc
 
 #org @NAME_TOXIC_SPIKES
 Pics Toxik
 
 #org @NAME_HEALING_WISH
-Voeu Soin
+V\yu Soin
 
 #org @NAME_LUNAR_DANCE
 Danse Lune
 
 #org @NAME_TAILWIND
-Vent Arrière
+Vent Arri\rre
 
 #org @NAME_BOOMBURST
 Bang Sonique
@@ -1434,7 +1434,7 @@ Soucigraine
 Suc Digestif
 
 #org @NAME_GEOMANCY
-G\eo-Contrôle
+G\eo-Contr\mle
 
 #org @NAME_FLOWER_GUARD
 Garde Florale
@@ -1473,7 +1473,7 @@ Ruse
 Hantise
 
 #org @NAME_PETAL_STORM
-Tempête Flor.
+Temp\tte Flor.
 
 #org @NAME_PLAY_NICE
 Camaraderie
@@ -1590,7 +1590,7 @@ BouclierRoy.
 Frappe Psy
 
 #org @NAME_AUTOTOMIZE
-Allègement
+All\rgement
 
 #org @NAME_DIAMOND_STORM
 Orage Adam.
@@ -1626,7 +1626,7 @@ Force Chton.
 Mort'Ailes
 
 #org @NAME_HEART_SWAP
-Permucoeur
+Permuc\yur
 
 #org @NAME_CRUSH_GRIP
 Presse
@@ -1650,7 +1650,7 @@ Chant Antik
 Lame Ointe
 
 #org @NAME_GLACIATE
-Ère Glac.
+\Tre Glac.
 
 #org @NAME_BOLT_STRIKE
 ChargFoudre
@@ -1677,7 +1677,7 @@ Flamme Croix
 Dard Mortel
 
 #org @NAME_NOBLE_ROAR
-Râle Mâle
+R\ole M\ole
 
 #org @NAME_DRAGON_RISE
 Dragon Rise
@@ -1689,7 +1689,7 @@ Dernier Mot
 Renversement
 
 #org @NAME_CORE_ENFORCE
-SanctSuprême
+SanctSupr\tme
 
 #org @NAME_CHATTER
 Babil
@@ -1713,13 +1713,13 @@ Onde \Etrange
 Retenue
 
 #org @NAME_INFESTATION
-Harcèlement
+Harc\rlement
 
 #org @NAME_POWER_UP_HIT
 Poing Boost
 
 #org @NAME_1000_ARROWS
-Myria-Flèche
+Myria-Fl\rche
 
 #org @NAME_1000_WAVES
 Myria-Vagues
@@ -1791,7 +1791,7 @@ Affilage
 Feuillage
 
 #org @NAME_LIQUIDATION
-Aqua-Brèche
+Aqua-Br\rche
 
 #org @NAME_LUNGE
 Furie-Bond
@@ -1827,7 +1827,7 @@ Danse \Eveil
 Os Ombre
 
 #org @NAME_SHELL_TRAP
-Carapiège
+Carapi\rge
 
 #org @NAME_SHORE_UP
 Amass'Sable
@@ -1842,7 +1842,7 @@ Lame Solaire
 Aria d'\Ecume
 
 #org @NAME_SPECT_THIEF
-Clepto-Mânes
+Clepto-M\ones
 
 #org @NAME_SPEED_SWAP
 Permuvitesse
@@ -1980,7 +1980,7 @@ L\evikin\esie
 Halloween
 
 #org @NAME_VENOM_DRENCH
-Piège-Venin
+Pi\rge-Venin
 
 #org @NAME_WOODS_CURSE
 Mal. Sylvain
@@ -2004,19 +2004,19 @@ Embargo
 VerrEnchant\e
 
 #org @NAME_LIGHT_O_RUIN
-LumièreN\eant
+Lumi\rreN\eant
 
 #org @NAME_TRUMP_CARD
 Atout
 
 #org @NAME_AFTER_YOU
-Après Vous
+Apr\rs Vous
 
 #org @NAME_INSTRUCT
 Sommation
 
 #org @NAME_QUASH
-À la Queue
+\A la Queue
 
 #org @NAME_HAPPY_HOUR
 \Etrennes
@@ -2046,7 +2046,7 @@ Tir Pr\ecis
 Croque Fort
 
 #org @NAME_STUFF_CHEEKS
-Garde-à-Joue
+Garde-\a-Joue
 
 #org @NAME_NO_RETREAT
 UltimBastion
@@ -2058,7 +2058,7 @@ Goudronnage
 Poudre Magik
 
 #org @NAME_DRAGON_DARTS
-Draco-Flèche
+Draco-Fl\rche
 
 #org @NAME_TEATIME
 Th\er\emonie
@@ -2073,7 +2073,7 @@ Prise de Bec
 Branchicrok
 
 #org @NAME_COURT_CHANGE
-Change-Côt\e
+Change-C\mt\e
 
 #org @NAME_CLANGOROUS_SOUL
 Dracophonie
@@ -2091,7 +2091,7 @@ TambourBatt.
 Troquenard
 
 #org @NAME_PYRO_BALL
-Ballon Brûl.
+Ballon Br\ul.
 
 #org @NAME_BEHEMOTH_BLADE
 Glad. Max.
@@ -2217,7 +2217,7 @@ C. Fulgurant
 Fur. Ardente
 
 #org @NAME_THUNDER_CAGE
-Voltageôle
+Voltage\mle
 
 #org @NAME_DRAGON_ENERGY
 Draco\Energie

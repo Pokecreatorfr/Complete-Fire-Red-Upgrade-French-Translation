@@ -6,172 +6,172 @@ FILL_FF=True
 -------
 
 #org @NAME_STENCH
-Stench
+Puanteur
 
 #org @NAME_DRIZZLE
-Drizzle
+Crachin
 
 #org @NAME_SPEED_BOOST
-Speed Boost
+Turbo
 
 #org @NAME_BATTLE_ARMOR
-Battle Armor
+Armurbaston
 
 #org @NAME_STURDY
-Sturdy
+Fermet\e
 
 #org @NAME_DAMP
-Damp
+Moiteur
 
 #org @NAME_LIMBER
-Limber
+\Echauffement
 
 #org @NAME_SAND_VEIL
-Sand Veil
+Voile Sable
 
 #org @NAME_STATIC
-Static
+Statik
 
 #org @NAME_VOLT_ABSORB
-Volt Absorb
+Absorb'Volt
 
 #org @NAME_WATER_ABSORB
-Water Absorb
+Absorb'Eau
 
 #org @NAME_OBLIVIOUS
-Oblivious
+Benet
 
 #org @NAME_CLOUD_NINE
-Cloud Nine
+Ciel Gris
 
 #org @NAME_COMPOUND_EYES
-Compound Eyes
+Oeil Compos\e
 
 #org @NAME_INSOMNIA
 Insomnia
 
 #org @NAME_COLOR_CHANGE
-Color Change
+Homochromie
 
 #org @NAME_IMMUNITY
-Immunity
+Vaccin
 
 #org @NAME_FLASH_FIRE
-Flash Fire
+Torche
 
 #org @NAME_SHIELD_DUST
-Shield Dust
+\Ecran poudre
 
 #org @NAME_OWN_TEMPO
-Own Tempo
+Tempo Perso
 
 #org @NAME_SUCTION_CUPS
-Suction Cups
+Ventouse
 
 #org @NAME_INTIMIDATE
-Intimidate
+Intimidation
 
 #org @NAME_SHADOW_TAG
-Shadow Tag
+Marque Ombre
 
 #org @NAME_ROUGH_SKIN
-Rough Skin
+Peau dure
 
 #org @NAME_WONDER_GUARD
-Wonder Guard
+Garde Mystik
 
 #org @NAME_LEVITATE
-Levitate
+Levitation
 
 #org @NAME_EFFECT_SPORE
-Effect Spore
+Pose Spore
 
 #org @NAME_SYNCHRONIZE
-Synchronize
+Synchro
 
 #org @NAME_CLEAR_BODY
-Clear Body
+Corps Sain
 
 #org @NAME_NATURAL_CURE
-Natural Cure
+M\edic Nature
 
 #org @NAME_LIGHTNING_ROD
-Lightning Rod
+Paratonnerre
 
 #org @NAME_SERENE_GRACE
-Serene Grace
+S\er\enit\e
 
 #org @NAME_SWIFT_SWIM
-Swift Swim
+Glissade
 
 #org @NAME_CHLOROPHYLL
-Chlorophyll
+Chlorophylle
 
 #org @NAME_ILLUMINATE
-Illuminate
+Lumiattirance
 
 #org @NAME_TRACE
-Trace
+Calque
 
 #org @NAME_HUGE_POWER
-Huge Power
+Coloforce
 
 #org @NAME_POISON_POINT
-Poison Point
+Point Poison
 
 #org @NAME_INNER_FOCUS
-Inner Focus
+Attention
 
 #org @NAME_MAGMA_ARMOR
-Magma Armor
+Armumagma
 
 #org @NAME_WATER_VEIL
-Water Veil
+Ignifu-Voile
 
 #org @NAME_MAGNET_PULL
-Magnet Pull
+Magn\epi\rge
 
 #org @NAME_SOUNDPROOF
-Soundproof
+Anti-Bruit
 
 #org @NAME_RAIN_DISH
-Rain Dish
+Cuvette
 
 #org @NAME_SAND_STREAM
-Sand Stream
+Sable Volant
 
 #org @NAME_PRESSURE
-Pressure
+Pression
 
 #org @NAME_THICK_FAT
-Thick Fat
+Isograisse
 
 #org @NAME_EARLY_BIRD
-Early Bird
+Matinal
 
 #org @NAME_FLAME_BODY
-Flame Body
+Corps Ardent
 
 #org @NAME_RUN_AWAY
-Run Away
+Fuite
 
 #org @NAME_KEEN_EYE
-Keen Eye
+Regard-Vif
 
 #org @NAME_HYPER_CUTTER
 Hyper Cutter
 
 #org @NAME_PICKUP
-Pickup
+Ramassage
 
 #org @NAME_TRUANT
-Truant
+Absent\eisme
 
 #org @NAME_HUSTLE
-Hustle
+Agitation
 
 #org @NAME_CUTE_CHARM
-Cute Charm
+Joli-Sourire
 
 #org @NAME_PLUS
 Plus
@@ -180,409 +180,409 @@ Plus
 Minus
 
 #org @NAME_FORECAST
-Forecast
+M\et\eo
 
 #org @NAME_STICKY_HOLD
-Sticky Hold
+Glue
 
 #org @NAME_SHED_SKIN
-Shed Skin
+Mue
 
 #org @NAME_GUTS
-Guts
+Cran
 
 #org @NAME_MARVEL_SCALE
-Marvel Scale
+\Ecaille Sp\e.
 
 #org @NAME_LIQUID_OOZE
-Liquid Ooze
+Suintement
 
 #org @NAME_OVERGROW
-Overgrow
+Engrais
 
 #org @NAME_BLAZE
-Blaze
+Brasier
 
 #org @NAME_TORRENT
 Torrent
 
 #org @NAME_SWARM
-Swarm
+Essaim
 
 #org @NAME_ROCK_HEAD
-Rock Head
+T\tte de roc
 
 #org @NAME_DROUGHT
-Drought
+S\echeresse
 
 #org @NAME_ARENA_TRAP
-Arena Trap
+Pi\rge
 
 #org @NAME_VITAL_SPIRIT
-Vital Spirit
+Esprit Vital
 
 #org @NAME_WHITE_SMOKE
-White Smoke
+\Ecran Fum\ee
 
 #org @NAME_NEUTRALISING_GAS
-Neutralize Gas
+Gaz Inhibiteur
 
 #org @NAME_SHELL_ARMOR
-Shell Armor
+Coque Armure
 
 #org @NAME_HUNGER_SWITCH
-Hunger Switch
+D\eclic Fringale
 
 #org @NAME_AIR_LOCK
 Air Lock
 
 #org @NAME_SWEET_VEIL
-Sweet Veil
+Gluco-Voile
 
 #org @NAME_SKILL_LINK
-Skill Link
+Multi-Coups
 
 #org @NAME_MOTOR_DRIVE
-Motor Drive
+Motoris\e
 
 #org @NAME_MULTISCALE
-Multiscale
+Multi-\Ecaille
 
 #org @NAME_TECHNICIAN
-Technician
+Technicien
 
 #org @NAME_SCRAPPY
-Scrappy
+Queurelleur
 
 #org @NAME_SUPER_LUCK
-Super Luck
+Chanceux
 
 #org @NAME_SNIPER
 Sniper
 
 #org @NAME_REGENERATOR
-Regenerator
+R\eg\e-Force
 
 #org @NAME_PRANKSTER
-Prankster
+Farceur
 
 #org @NAME_ADAPTABILITY
-Adaptability
+Adaptabilit\e
 
 #org @NAME_BIG_PECKS
-Big Pecks
+Coeur de Coq
 
 #org @NAME_MAGIC_BOUNCE
-Magic Bounce
+Miroir Magik
 
 #org @NAME_RECKLESS
-Reckless
+T\em\eraire
 
 #org @NAME_SHEER_FORCE
-Sheer Force
+Sans limite
 
 #org @NAME_IRON_FIST
-Iron Fist
+Poing de fer
 
 #org @NAME_RIVALRY
-Rivalry
+Rivalit\e
 
 #org @NAME_SAND_FORCE
-Sand Force
+Force Sable
 
 #org @NAME_SOLAR_POWER
-Solar Power
+Force Soleil
 
 #org @NAME_HEATPROOF
-Heatproof
+Ignifug\e
 
 #org @NAME_DRY_SKIN
-Dry Skin
+Peau s\rche
 
 #org @NAME_TINTED_LENS
-Tinted Lens
+Lentilleteint\ee
 
 #org @NAME_SOLID_ROCK
-Solid Rock
+Solide Roc
 
 #org @NAME_FILTER
-Filter
+Filtre
 
 #org @NAME_INFILTRATOR
-Infiltrator
+Infiltration
 
 #org @NAME_DOWNLOAD
-Download
+T\el\echarge
 
 #org @NAME_POISON_HEAL
-Poison Heal
+Soin Poison
 
 #org @NAME_ICE_BODY
-Ice Body
+Corps Gel
 
 #org @NAME_MOODY
-Moody
+Lunatique
 
 #org @NAME_HYDRATION
-Hydration
+Hydratation
 
 #org @NAME_HEALER
-Healer
+Coeur Soin
 
 #org @NAME_SNOW_CLOAK
-Snow Cloak
+Rideau Neige
 
 #org @NAME_TANGLED_FEET
-Tangled Feet
+Pied Confus
 
 #org @NAME_SNOW_WARNING
-Snow Warning
+Alerte Neige
 
 #org @NAME_QUICK_FEET
-Quick Feet
+Pied V\eloce
 
 #org @NAME_SAP_SIPPER
-Sap Sipper
+Herbivore
 
 #org @NAME_OVERCOAT
-Overcoat
+Envelocape
 
 #org @NAME_MAGIC_GUARD
-Magic Guard
+Garde Magik
 
 #org @NAME_BULLETPROOF
-Bulletproof
+Pare-Balles
 
 #org @NAME_GALE_WINGS
-Gale Wings
+A. Bourrasques
 
 #org @NAME_MOXIE
-Moxie
+Impudence
 
 #org @NAME_AFTERMATH
-Aftermath
+Boom Final
 
 #org @NAME_CURSED_BODY
-Cursed Body
+Corps Maudit
 
 #org @NAME_GOOEY
-Gooey
+Poisseux
 
 #org @NAME_MUMMY
-Mummy
+Momie
 
 #org @NAME_IRON_BARBS
-Iron Barbs
+\Epine Fer
 
 #org @NAME_SAND_RUSH
-Sand Rush
+Baigne Sable
 
 #org @NAME_ANALYTIC
-Analytic
+Analytiste
 
 #org @NAME_NO_GUARD
-No Guard
+Annule Garde
 
 #org @NAME_MEGA_LAUNCHER
-Mega Launcher
+Mega Blaster
 
 #org @NAME_TOUGH_CLAWS
-Tough Claws
+Griffe Dure
 
 #org @NAME_STRONG_JAW
-Strong Jaw
+Prognathe
 
 #org @NAME_VICTORY_STAR
-Victory Star
+Victorieux
 
 #org @NAME_STORM_DRAIN
-Storm Drain
+Lavabo
 
 #org @NAME_DARK_AURA
-Dark Aura
+Aura T\en\ebreuse
 
 #org @NAME_FAIRY_AURA
-Fairy Aura
+Aura F\eerique
 
 #org @NAME_AURA_BREAK
-Aura Break
+Aura Invers\ee
 
 #org @NAME_REFRIGERATE
-Refrigerate
+Peau Gel\ee
 
 #org @NAME_PIXILATE
-Pixilate
+Peau F\eerique
 
 #org @NAME_AERILATE
-Aerilate
+Peau C\eleste
 
 #org @NAME_NORMALIZE
 Normalize
 
 #org @NAME_UNBURDEN
-Unburden
+D\elestage
 
 #org @NAME_SIMPLE
 Simple
 
 #org @NAME_UNAWARE
-Unaware
+Inconscient
 
 #org @NAME_DEFIANT
-Defiant
+Acharn\e
 
 #org @NAME_COMPETITIVE
-Competitive
+Battant
 
 #org @NAME_DEFEATIST
-Defeatist
+D\efaitiste
 
 #org @NAME_SLOW_START
-Slow Start
+D\ebut Calme
 
 #org @NAME_TOXIC_BOOST
-Toxic Boost
+Rage Poison
 
 #org @NAME_FLARE_BOOST
-Flare Boost
+Rage Br\ulure
 
 #org @NAME_FUR_COAT
-Fur Coat
+Toison \Epaisse
 
 #org @NAME_WONDER_SKIN
-Wonder Skin
+Peau Miracle
 
 #org @NAME_PROTEAN
-Protean
+Prot\een
 
 #org @NAME_PARENTAL_BOND
-Parental Bond
+Amour Filial
 
 #org @NAME_MOLD_BREAKER
-Mold Breaker
+Brise Moule
 
 #org @NAME_TURBOBLAZE
-Turboblaze
+Turbo-Brasier
 
 #org @NAME_TERAVOLT
-Teravolt
+Tera-Voltage
 
 #org @NAME_ZEN_MODE
-Zen Mode
+Mode Transe
 
 #org @NAME_BATTLE_BOND
-Battle Bond
+Syn\ergie
 
 #org @NAME_BEAST_BOOST
-Beast Boost
+Boost Chim\rre
 
 #org @NAME_CORROSION
 Corrosion
 
 #org @NAME_DISGUISE
-Disguise
+D\eguisement
 
 #org @NAME_EMERGENCY_EXIT
-Emergency Exit
+Repli Tactique
 
 #org @NAME_FLUFFY
-Fluffy
+Boule de Poil
 
 #org @NAME_STEELY_SPIRIT
-Steely Spirit
+Boost Acier
 
 #org @NAME_PERISH_BODY
-Perish Body
+Corps Condamn\e
 
 #org @NAME_WANDERING_SPIRIT
-Wandering Soul
+\Rme Vagabonde
 
 #org @NAME_POWER_CONSTRUCT
-Power Construct
+Rassemblement
 
 #org @NAME_PRISM_ARMOR
-Prism Armor
+Prisme-Armure
 
 #org @NAME_RKS_SYSTEM
-RKS System
+Syst\rme Alpha
 
 #org @NAME_SCHOOLING
-Schooling
+Banc
 
 #org @NAME_SHADOW_SHIELD
-Shadow Shield
+SpectroBouclier
 
 #org @NAME_SHIELDS_DOWN
-Shields Down
+Bouclier-Carcan
 
 #org @NAME_SLUSH_RUSH
-Slush Rush
+Chasse-Neige
 
 #org @NAME_SOULHEART
-Soul-Heart
+Animacoeur
 
 #org @NAME_STAMINA
-Stamina
+Endurance
 
 #org @NAME_STEELWORKER
-Steelworker
+Expert Acier
 
 #org @NAME_TANGLING_HAIR
-Tangling Hair
+M\rche rebelle
 
 #org @NAME_TRIAGE
-Triage
+Priogu\erison
 
 #org @NAME_WATER_BUBBLE
-Water Bubble
+Aquabulle
 
 #org @NAME_WATER_COMPACTION
-Water Compact
+Sable Humide
 
 #org @NAME_STALL
-Stall
+Frein
 
 #org @NAME_MULTITYPE
 Multitype
 
 #org @NAME_ELECTRIC_SURGE
-Electric Surge
+Cr\ea-\Elec
 
 #org @NAME_GRASSY_SURGE
-Grassy Surge
+Cr\ea-Herbe
 
 #org @NAME_MISTY_SURGE
-Misty Surge
+Cr\ea-Brume
 
 #org @NAME_PSYCHIC_SURGE
-Psychic Surge
+Cr\ea-Psy
 
 #org @NAME_SURGE_SURFER
-Surge Surfer
+Surf Caudal
 
 #org @NAME_GRASS_PELT
-Grass Pelt
+Toison Herbue
 
 #org @NAME_ANGER_POINT
-Anger Point
+Col\erique
 
 #org @NAME_ANTICIPATION
 Anticipation
 
 #org @NAME_FOREWARN
-Forewarn
+Pr\ediction
 
 #org @NAME_FRISK
-Frisk
+Fouille
 
 #org @NAME_CONTRARY
-Contrary
+Contestation
 
 #org @NAME_UNNERVE
-Unnerve
+Tension
 
 #org @NAME_WEAK_ARMOR
-Weak Armor
+Armurouill\e
 
 #org @NAME_HEAVY_METAL
 Heavy Metal
@@ -591,178 +591,178 @@ Heavy Metal
 Light Metal
 
 #org @NAME_STEADFAST
-Steadfast
+Impassible
 
 #org @NAME_IMPOSTER
-Imposter
+Imposteur
 
 #org @NAME_JUSTIFIED
-Justified
+Coeur Noble
 
 #org @NAME_RATTLED
-Rattled
+Phobique
 
 #org @NAME_MERCILESS
-Merciless
+Cruaut\e
 
 #org @NAME_AROMA_VEIL
-Aroma Veil
+Aroma-Voile
 
 #org @NAME_FLOWER_VEIL
-Flower Veil
+Flora-Voile
 
 #org @NAME_LEAF_GUARD
-Leaf Guard
+Feuille Garde
 
 #org @NAME_KLUTZ
-Klutz
+Maladresse
 
 #org @NAME_FLOWER_GIFT
-Flower Gift
+Don Floral
 
 #org @NAME_BAD_DREAMS
-Bad Dreams
+Mauvais r\tve
 
 #org @NAME_PICKPOCKET
 Pickpocket
 
 #org @NAME_PORTAL_POWER
-Portal Power
+Force Pure
 
 #org @NAME_POISON_TOUCH
-Poison Touch
+Toxitouche
 
 #org @NAME_MAGICIAN
-Magician
+Magicien
 
 #org @NAME_STANCE_CHANGE
-Stance Change
+D\eclic Tactic
 
 #org @NAME_PRIMORDIAL_SEA
-Primordial Sea
+Mer Primaire
 
 #org @NAME_DESOLATE_LAND
-Desolate Land
+Terre Finale
 
 #org @NAME_DELTA_STREAM
-Delta Stream
+Souffle Delta
 
 #org @NAME_GORILLA_TACTICS
-Gorilla Tactics
+Ent\ttement
 
 #org @NAME_BERSERK
-Berserk
+Dracol\rre
 
 #org @NAME_LONG_REACH
-Long Reach
+Longue Port\ee
 
 #org @NAME_LIQUID_VOICE
-Liquid Voice
+Hydrata-Son
 
 #org @NAME_QUEENLY_MAJESTY
-Queenly Majesty
+PrestanceRoyale
 
 #org @NAME_INNARDS_OUT
-Innards Out
+Expluls'Organe
 
 #org @NAME_DAZZLING
-Dazzling
+Corps Color\e
 
 #org @NAME_GLUTTONY
-Gluttony
+Gloutennerie
 
 #org @NAME_HONEY_GATHER
-Honey Gather
+Cherch'Miel
 
 #org @NAME_FRIEND_GUARD
-Friend Guard
+Garde Ami
 
 #org @NAME_HARVEST
-Harvest
+R\ecolte
 
 #org @NAME_TELEPATHY
-Telepathy
+T\el\epathe
 
 #org @NAME_ILLUSION
 Illusion
 
 #org @NAME_CHEEK_POUCH
-Cheek Pouch
+Bajoues
 
 #org @NAME_SYMBIOSIS
-Symbiosis
+Symbiose
 
 #org @NAME_STAKEOUT
-Stakeout
+Filature
 
 #org @NAME_COMATOSE
-Comatose
+Hypersommeil
 
 #org @NAME_DANCER
-Dancer
+Danceuse
 
 #org @NAME_BATTERY
-Battery
+Batterie
 
 #org @NAME_RECEIVER
-Receiver
+Receveur
 
 #org @NAME_POWER_OF_ALCHEMY
-Alchemic Power
+Osmose
 
 #org @NAME_NEUROFORCE
 Neuroforce
 
 #org @NAME_GALVANIZE
-Galvanize
+Peau \Electrique
 
 #org @NAME_INTREPID_SWORD
-Intrepid Sword
+LameIndomptable
 
 #org @NAME_DAUNTLESS_SHIELD
-Valiant Shield
+\EgideInflexible
 
 #org @NAME_BALL_FETCH
-Ball Fetch
+Ramasse Ball
 
 #org @NAME_COTTON_DOWN
-Cotton Down
+Effilochage
 
 #org @NAME_MIRROR_ARMOR
-Mirror Armor
+Armure Miroir
 
 #org @NAME_GULP_MISSLE
-Gulp Missile
+D\egobage
 
 #org @NAME_STALWART
-Stalwart
+Nerfs d'Acier
 
 #org @NAME_STEAM_ENGINE
-Steam Engine
+Turbine
 
 #org @NAME_PUNK_ROCK
 Punk Rock
 
 #org @NAME_SAND_SPIT
-Sand Spit
+Expul'Sable
 
 #org @NAME_ICE_SCALES
-Ice Scales
+\EcaillesGlac\ees
 
 #org @NAME_RIPEN
-Ripen
+M\urissement
 
 #org @NAME_ICE_FACE
-Ice Face
+T\tte de Gel
 
 #org @NAME_POWER_SPOT
-Power Spot
+Cercled'Energie
 
 #org @NAME_MIMICRY
-Mimicry
+Mim\etisme
 
 #org @NAME_SCREEN_CLEANER
-Screen Cleaner
+Brise Barri\rre
 
 #org @NAME_PASTEL_VEIL
-Pastel Veil
+Voile Pastel

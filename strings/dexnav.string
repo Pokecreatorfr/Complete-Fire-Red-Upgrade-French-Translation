@@ -5,88 +5,88 @@ Dexnav
 Missions
 
 #org @gText_MenuExitRight
-Exit  [DPAD_RIGHT]
+Quitter  [DPAD_RIGHT]
 
 #org @gText_MenuExitLeft
-Exit  [DPAD_LEFT]
+Quitter  [DPAD_LEFT]
 
 #org @gText_DexNavInstructions
-[R_BUTTON]Register [B_BUTTON]Cancel
+[R_BUTTON]Enregistrer [B_BUTTON]Annuler
 
 #org @gText_DexNavWater
-Water
+Eau
 
 #org @gText_DexNavLand
-Land
+Terre
 
 #org @gText_PinkFlowers
-Pink Flowers
+Fleurs Roses
 
 #org @gText_YellowFlowers
-Yellow Flowers
+Fleurs Jaunes
 
 #org @gText_RedFlowers
-Red Flowers
+Fleurs Rouges
 
 #org @gText_BlueFlowers
-Blue Flowers
+Fleurs Bleues
 
 #org @gText_PinkAndPurpleFlowers
-Pink-Purple Flowers
+Fleurs rose-violettes
 
 #org @gText_BlueAndYellowFlowers
-Blue-Yellow Flowers
+Fleurs bleu-jaunes
 
 #org @gText_Magma
 Magma
 
 #org @gText_Sand
-Sand
+Sable
 
 #org @gText_DexNavDescription
-Search for wild Pok\emon in the area\nwith potential special qualities!
+Cherchez un Pok\emon sauvage d'une zone\navec des qualit\es sp\eciales!
 
 #org @gText_GotAway
-[BUFFER1] got away!
+[BUFFER1] s'est enfuit!
 
 #org @gText_GotAwayShouldSneak
-[BUFFER1] got away!\nTry moving more slowly.
+[BUFFER1] s'est enfuit!\nMarchez plus lentement.
 
 #org @gText_LostSignal
-There is no reaction.\nThe signal was lost!
+Aucune r\eaction.\nle signal est perdu!
 
 #org @gText_CannotBeFound
-[BUFFER1] cannot be found here.
+[BUFFER1] ne peut \ttre trouv\e ici.
 
 #org @gText_NotFoundNearby
-[BUFFER1] couldn't be found nearby.\nTry looking in a different area!
+[BUFFER1] ne peut \ttre trouv\e ici.\nCherchez dans une autre zone!
 
 #org @gText_TooDarkForDexNav
-It's too dark to search for\na Pok\emon!
+C'est trop sombre pour chercher\nun Pok\emon!
 
 #org @gText_DexNavBack
  Back  
 
 #org @gText_DexNav_CaptureToSee
-Capture first!
+Capture d'abord!
 
 #org @gText_DexNav_NoInfo
 --------
 
 #org @gText_DexNav_ChooseMon
-Choose a Pok\emon.
+Choisissez un Pok\emon.
 
 #org @gText_DexNav_Invalid
-That Pok\emon can't be searched yet!
+Ce Pok\emon ne peut \ttre cherch\e encore!
 
 #org @gText_DexNav_NoDataForSlot
-There's no data for that Pok\emon[.]
+Aucune info sur ce Pok\emon[.]
 
 #org @gText_DexNav_Locked
-Pok\emon searchable via [R_BUTTON]!
+Pok\emon recherchable via [R_BUTTON]!
 
 #org @gText_DexNav_TooDark
-It's too dark to search for a Pok\emon!
+C'est trop sombre pour chercher un Pok\emon!
 
 #org @gText_MenuCube
 Cube

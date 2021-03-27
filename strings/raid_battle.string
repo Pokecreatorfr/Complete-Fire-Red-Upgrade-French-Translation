@@ -1,11 +1,11 @@
 #org @gText_RecommendedLevel
-Recommended Lvl: 
+Nv. Recommand\e: 
 
 #org @gText_RaidIntroSelection
-[DPAD_UP_DOWN]Pick [A_BUTTON]Choose [START_BUTTON]Random [B_BUTTON]Cancel
+[DPAD_UP_DOWN]Prendre [A_BUTTON]Choisir [START_BUTTON]Random [B_BUTTON]Annuler
 
 #org @gText_RaidBattleRules
-Battle ends if:\n4 Pok\emon faint\n10 turns pass
+Combat fini si:\n4 Pok\emon sont KO\n10 tours passent
 
 #org @gText_RaidBattleChoosePartner
-Available Partners
+Partenaires Dispos

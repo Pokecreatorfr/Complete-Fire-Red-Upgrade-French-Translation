@@ -1,544 +1,544 @@
 #include "src/config.h"
 
 #org @DESC_SWEETVEIL
-Keeps user and allies awake.
+Emp\tche l'endormissement.
 
 #org @DESC_SKILLLINK
-Multi-hit moves hit five times.
+Les attaques mult. frappes plus.
 
 #org @DESC_MOTORDRIVE
-Turns electricity into Speed.
+L'electricit\e augmente la Vit
 
 #org @DESC_MULTISCALE
 #org @DESC_FULLMETALBODY
-Reduces damage at full HP.
+Emp\tche la baisse des stats.
 
 #org @DESC_TECHNICIAN
-Boosts weaker moves.
+Am\eliore les capacit\es faibles.
 
 #org @DESC_SCRAPPY
-Moves hit Ghost-type Pok\emon.
+Toute cap. affecte les Spectres.
 
 #org @DESC_SUPERLUCK
-Critical hits land more often.
+Augmente le taux de coup crit.
 
 #org @DESC_SNIPER
-Boosts critical hits.
+Am\eliore les coups crit.
 
 #org @DESC_REGENERATOR
-Heals upon switching out.
+Restaure les PV si il est retir\e.
 
 #org @DESC_PRANKSTER
-Status moves hit first.
+Capacit\es de status prioritaires.
 
 #org @DESC_ADAPTABILITY
-Boosts same type attacks.
+Booste les attaques du m\tme type.
 
 #org @DESC_BIGPECKS
-Prevents Defense reduction.
+Emp\tche la D\ef. de baisser.
 
 #org @DESC_MAGICBOUNCE
-Reflects status moves.
+Renvoie les attaques de statut.
 
 #org @DESC_RECKLESS
-Boosts moves with recoil.
+Booste les cap. avec contrecoup.
 
 #org @DESC_SHEERFORCE
-Trades added effects for power.
+Tape fort, annule effets cumul\es.
 
 #org @DESC_IRONFIST
-Boosts punching moves.
+Am\eliore les attaques au poing.
 
 #org @DESC_RIVALRY
-Boosts moves against rivals.
+Plus fort contre le meme sexe.
 
 #org @DESC_SANDFORCE
-Boosts moves in a sandstorm.
+Plus fort en temp\tte de sable.
 
 #org @DESC_SOLARPOWER
 Trades HP for power in sunshine.
 
 #org @DESC_HEATPROOF
-Heat protection.
+Baisse puissance de feu sur lui.
 
 #org @DESC_DRYSKIN
-Prefers the rain to heat.
+Pr\ef\rre la pluie au soleil.
 
 #org @DESC_TINTEDLENS
-Boosts "not very effective\" moves.
+Monte puis. quand pas tr\rs eff.
 
 #org @DESC_SOLIDROCK
 #org @DESC_FILTER
-Weakens super-effective moves.
+Baisse puis. des atq super eff.
 
 #org @DESC_INFILTRATOR
 #ifdef UNBOUND
 Passes through barriers and Fog.
 #else
-Passes through barriers.
+Outrepasse barri\rres.
 #endif
 
 #org @DESC_DOWNLOAD
-Adjusts power from foe's stats.
+Boost puis. en fonction de cible.
 
 #org @DESC_POISONHEAL
-Restores HP if poisoned.
+Restore PV quand empoisonn\e.
 
 #org @DESC_ICEBODY
-Slight HP recovery in hail.
+Restore PV sous la gr\tle.
 
 #org @DESC_MOODY
-Raises one stat and lowers another.
+Monte stat et baisse une autre.
 
 #org @DESC_HYDRATION
-Heals status problems in rain.
+Soigne Pb. de statut sous pluie.
 
 #org @DESC_HEALER
-May heal ally's status problems.
+Peut soigner statut des alli\es.
 
 #org @DESC_SNOWCLOAK
-Ups evasion in hail.
+Monte esquive sous gr\tle.
 
 #org @DESC_TANGLEDFEET
-Ups evasion if confused.
+Monte esquive si confus.
 
 #org @DESC_SNOWWARNING
-Summons a hailstorm in battle.
+Provoque la gr\tle en combat.
 
 #org @DESC_QUICKFEET
-Ups Speed if suffering.
+Monte vitesse si Pb. de statut.
 
 #org @DESC_SAPSIPPER
-Boosts Attack if hit by Grass.
+Monte Atq quand touch\e par Plant.
 
 #org @DESC_OVERCOAT
-Immune to weather and powder.
+Immunit\e climat et poudres.
 
 #org @DESC_MAGICGUARD
-Only damaged by attacks.
+Immunit\e d\eg\ots r\esiduels.
 
 #org @DESC_BULLETPROOF
-Avoids ball and bomb moves.
+Immunit\e bombes et balles.
 
 #org @DESC_GALEWINGS
-Flying moves hit first.
+Attaques Vol prioritaires.
 
 #org @DESC_MOXIE
-Knockouts boost Attack.
+Monte attaque quand met KO.
 
 #org @DESC_AFTERMATH
-Fainting damages the foe.
+Fait des d\eg\ots quand mit KO.
 
 #org @DESC_CURSEDBODY
-May disable a foe's move.
+Peut entraver attaque ennemie.
 
 #org @DESC_GOOEY
 #org @DESC_TANGLINGHAIR
-Lowers the foe's Speed if hit.
+Baisse vitesse quand touch\e.
 
 #org @DESC_MUMMY
-Spreads with contact.
+Obtient talent quand contact.
 
 #org @DESC_IRONBARBS
-Hurts to touch.
+Perd PV quand contact.
 
 #org @DESC_SANDRUSH
-Raises Speed in a sandstorm.
+Monte vitesse sous Temp\tte-Sable.
 
 #org @DESC_ANALYTIC
-Moving last boosts power.
+Monte puis. quand atq en dernier.
 
 #org @DESC_NOGUARD
-Ensures that all moves land.
+Ne peut pas rater ses attaques.
 
 #org @DESC_MEGALAUNCHER
-Boosts aura and pulse moves.
+Boost puis. attaques Aura.
 
 #org @DESC_TOUGHCLAWS
-Boosts moves that make contact.
+Boost puis. quand contact.
 
 #org @DESC_STRONGJAW
-Boosts biting moves.
+Boost attaques de morsures.
 
 #org @DESC_VICTORYSTAR
-Raises accuracy.
+Monte pr\ecision.
 
 #org @DESC_STORMDRAIN
-Draws in Water-type moves.
+Monte Atq.Sp\e quand Atq eau.
 
 #org @DESC_DARKAURA
-Powers up Dark-type moves.
+Boost les atq de type t\en\rbres.
 
 #org @DESC_FAIRYAURA
-Powers up Fairy-type moves.
+Boost les attaques de type f\ee.
 
 #org @DESC_AURABREAK
-Reverses Aura Abilities.
+Inverse les auras.
 
 #org @DESC_REFRIGERATE
-Normal moves become Ice.
+Attaques normales sont Glace.
 
 #org @DESC_PIXILATE
-Normal moves become Fairy.
+Attaques normales sont F\ee.
 
 #org @DESC_AERILATE
-Normal moves become Flying.
+Attaques normales sont Vol.
 
 #org @DESC_NORMALIZE
-All moves become Normal-type.
+Toutes les atq sont type normal.
 
 #org @DESC_UNBURDEN
-Doubles Speed if item is lost.
+Monte vitesse quand perd objet.
 
 #org @DESC_SIMPLE
-Doubles stat changes.
+Double modifications de stats.
 
 #org @DESC_UNAWARE
-Ignores foe's stat changes.
+Ignore changement de stats adv.
 
 #org @DESC_DEFIANT
-Attack rises when stats fall.
+Monte Atq quand stat baiss\ee.
 
 #org @DESC_COMPETITIVE
-Sp. Atk rises when stats fall.
+Monte Sp.Atq quand stat baiss\ee.
 
 #org @DESC_DEFEATIST
-Gives up at half HP.
+Abondonne trop t\mt.
 
 #org @DESC_SLOWSTART
-Takes a while to get going.
+Prend du temps \a se motiver.
 
 #org @DESC_TOXICBOOST
-Attack rises when poisoned.
+Monte attaque quand empoisonn\e.
 
 #org @DESC_FLAREBOOST
-Sp. Atk rises when burned.
+Monte Atq.Sp\e quand br\ul\e.
 
 #org @DESC_FURCOAT
-Raises Defense.
+Double d\efense.
 
 #org @DESC_WONDERSKIN
-Ups status move evasion.
+Monte esquive quand Atq statut.
 
 #org @DESC_PROTEAN
 #org @DESC_LIBERO
-Changes type to match move.
+Prend le type de son attaque.
 
 #org @DESC_PARENTALBOND
-Parent and child attack together.
+M\rre et fils attaquent ensembles.
 
 #org @DESC_MOLDBREAKER
 #org @DESC_TURBOBLAZE
 #org @DESC_TERAVOLT
-Moves ignore Abilities.
+Ignore talent en attaquant.
 
 #org @DESC_ZENMODE
-Transforms below half HP.
+Prend sa forme Zen quand \a Mi-PV
 
 #org @DESC_BATTLEBOND
-Transforms after a KO.
+Synergise quand met KO un advers.
 
 #org @DESC_BEASTBOOST
-KOing a foe ups highest stat.
+Monte plus haute stat quand KO.
 
 #org @DESC_CORROSION
-May poison any type.
+Peut empoisonner tous les types.
 
 #org @DESC_DISGUISE
-Takes one hit with no damage.
+Immunit\e \a la premi\rre attaque.
 
 #org @DESC_EMERGENCYEXIT
 #org @DESC_WIMPOUT
-Switches out below half HP.
+Se retire quand Mi-HP.
 
 #org @DESC_FLUFFY
-Halves contact damage.
+Divise puissance atq de contact.
 
 #org @DESC_BROKEN_1
 #org @DESC_BROKEN_2
-No special Ability.
+Pas de talent.
 
 #org @DESC_POWERCONSTRUCT
-Transforms below half HP.
+Se transforme quand Mi-PV.
 
 #org @DESC_PRISMARMOR
-Weakens super-effective moves.
+Baisse puis Atq super-efficace.
 
 #org @DESC_RKS_SYSTEM
-Changes type to match Memory.
+Change type en fonction de ROM.
 
 #org @DESC_SCHOOLING
-Schools up with high HP.
+Se rassemble quand hauts PV.
 
 #org @DESC_SHADOWSHIELD
-Reduces damage at full HP.
+Divise par 2 d\eg\ots quand Max PV.
 
 #org @DESC_SHIELDSDOWN
-Lowers shields below half HP.
+Retire Bouc. carcan quand Mi-PV.
 
 #org @DESC_SLUSHRUSH
-Boosts speed in Hail.
+Monte vitesse sous gr\tle.
 
 #org @DESC_SOULHEART
-Knockouts boost Sp. Atk.
+Monte Atq.Sp\e quand met KO.
 
 #org @DESC_STAMINA
-Taking a hit raises Defense.
+Monte D\ef quand prend un coup.
 
 #org @DESC_STEELWORKER
-Powers up Steel-type moves.
+Boost puissance type acier.
 
 #org @DESC_TRIAGE
-Gives priority to healing moves.
+Attaque de soin prioritaire.
 
 #org @DESC_WATERBUBBLE
-Ups Water attacks. Prevents burn.
+Monte type eau. Immu Br\ulure.
 
 #org @DESC_WATERCOMPACTION
-Water-type hits raise Defense.
+Monte d\ef quand attaque eau.
 
 #org @DESC_STALL
-Moves after even slower foes.
+Priorit\e n\egative sur toutes atq.
 
 #org @DESC_MULTITYPE
-Changes type to match held Plate.
+Change type fonction de plaque.
 
 #org @DESC_ELECTRICSURGE
-Creates an Electric Terrain.
+Cr\ee terrain \electrique.
 
 #org @DESC_GRASSYSURGE
-Creates a Grassy Terrain.
+Cr\ee terrain herbu.
 
 #org @DESC_MISTYSURGE
-Creates a Misty Terrain.
+Cr\ee terrain brumeux.
 
 #org @DESC_PSYCHICSURGE
-Creates a Psychic Terrain.
+Cr\ee terrain psychique.
 
 #org @DESC_SURGESURFER
-Boosts Speed on Electric Terrain.
+Monte vitesse sur terrain \elec.
 
 #org @DESC_GRASSPELT
-Ups Defense on Grassy Terrain.
+Monte d\efense sur terrain herbu.
 
 #org @DESC_ANGERPOINT
-Maxes Attack after a critical hit.
+Maximise attaque quand crit.
 
 #org @DESC_ANTICIPATION
-Senses super-effective moves.
+Anticipe attaque super-efficace.
 
 #org @DESC_FOREWARN
-Warns of the foe's strongest move.
+Devine attaque la plus puissante.
 
 #org @DESC_FRISK
-Reveals the foe's held item.
+Devine objet tenu par l'ennemi.
 
 #org @DESC_CONTRARY
-Reverses stat changes.
+Inverse changements de stats.
 
 #org @DESC_UNNERVE
-Stops the foe from eating Berries.
+Emp\tche l'ennemi de manger baies.
 
 #org @DESC_WEAKARMOR
-Hits raise Speed but drop Defense.
+Monte vitesse mais baisse d\efens.
 
 #org @DESC_HEAVYMETAL
-Doubles weight.
+Double le poids.
 
 #org @DESC_LIGHTMETAL
-Halves weight.
+Divise par 2 le poids.
 
 #org @DESC_STEADFAST
-Flinching raises Speed.
+Monte vitesse quand apeur\e.
 
 #org @DESC_IMPOSTER
-Transforms upon entering battle.
+Se transforme en la cible.
 
 #org @DESC_JUSTIFIED
-Dark-type hits raise Attack.
+Monte Atq quand touch\e par Tnbr.
 
 #org @DESC_RATTLED
-Scary move types raise Speed.
+Certains types montent vitesse.
 
 #org @DESC_MERCILESS
-Critically hits poisoned foes.
+Crit quand la cible empoisonn\ee.
 
 #org @DESC_AROMAVEIL
-Protects against mental problems.
+Prot\rge des probl\rmes mentaux.
 
 #org @DESC_FLOWERVEIL
-Protects Grass-types from status.
+Prot\rge type plante des statuts.
 
 #org @DESC_LEAFGUARD
-Protects from status when sunny.
+Prot\rge des statuts quand Soleil.
 
 #org @DESC_KLUTZ
-Can't use items.
+Annule l'effet des objets.
 
 #org @DESC_FLOWERGIFT
-Powers up team when sunny.
+Monte puis. \equipe quand soleil.
 
 #org @DESC_BADDREAMS
-Hurts sleeping foes.
+Blesse cible quand elle dort.
 
 #org @DESC_PICKPOCKET
-Steals foe's item when hit.
+Vol objet de la cible quand atq.
 
 #org @DESC_PORTALPOWER
-Weakens non-contact moves.
+Baisse puis. atq sans contact.
 
 #org @DESC_POISONTOUCH
-Can poison foe on contact.
+Peut empoisonn\e quand contact.
 
 #org @DESC_MAGICIAN
-Can steal foe's item after attack.
+Vol objet de la cible.
 
 #org @DESC_STANCECHANGE
-Switches form when attacking.
+Change de forme quand attaque.
 
 #org @DESC_PRIMORDIALSEA
-Summons a heavy rainstorm.
+D\eclenche pluie battante.
 
 #org @DESC_DESOLATELAND
-Summons extremely harsh sunlight.
+D\eclenche Soleil ardant.
 
 #org @DESC_DELTASTREAM
-Summons a mysterious air current.
+D\eclanche Vent protecteur.
 
 #org @DESC_BERSERK
-Ups Sp. Atk below half HP.
+Monte Atq.Sp\e quand Mi-PV.
 
 #org @DESC_LONGREACH
-Never makes contact.
+Jamais de contact.
 
 #org @DESC_LIQUIDVOICE
-Sound moves become Water-type.
+Attaque sonore devient type eau.
 
 #org @DESC_QUEENLYMAJESTY
-Blocks priority moves.
+Bloque priorit\es.
 
 #org @DESC_INNARDSOUT
-Fainting damages the foe.
+Blesse ennemi quand KO.
 
 #org @DESC_DAZZLING
-Blocks priority moves.
+Bloque priorit\es.
 
 #org @DESC_GLUTTONY
-Eats Berries early.
+Mange baies plus t\mt.
 
 #org @DESC_HONEYGATHER
-Picks up Honey after battle.
+Ramasse miel apr\rs combat.
 
 #org @DESC_FRIENDGUARD
-Reduces damage done to allies.
+Baisse d\eg\ots sur alli\es.
 
 #org @DESC_HARVEST
-Can regain consumed Berries.
+Peut consommer baies \a nouveau.
 
 #org @DESC_TELEPATHY
-Protects from allies' moves.
+Immunit\e attaque alli\e.
 
 #org @DESC_ILLUSION
-Enters battle disguised.
+Entre en combat d\eguis\e.
 
 #org @DESC_CHEEKPOUCH
-Eating Berries restores HP.
+Manger baies restore PV.
 
 #org @DESC_SYMBIOSIS
-Gives item to ally after use.
+Donne objet \a alli\e.
 
 #org @DESC_STAKEOUT
-Doubles damage on replacements.
+Double d\eg\ots sur un switch.
 
 #org @DESC_COMATOSE
-Acts as if asleep.
+Attaque en dormant.
 
 #org @DESC_DANCER
-Copies dance moves.
+Copie dances.
 
 #org @DESC_BATTERY
-Powers up allies.
+Monte puissance alli\es.
 
 #org @DESC_RECEIVER
-Takes over a KOed ally's Ability.
+Prend talent alli\e KO.
 
 #org @DESC_POWEROFALCHEMY
-Takes over a KOed ally's Ability.
+Prend talent alli\e KO.
 
 #org @DESC_NEUROFORCE
-Powers up super-effective hits.
+Monte puis. super efficace.
 
 #org @DESC_GALVANIZE
-Normal moves become Electric.
+Atq normal devient \electrique.
 
 //Sword and Shield Abilities.
 
 #org @DESC_INTREPIDSWORD
-Ups Attack on entry.
+Monte attaque.
 
 #org @DESC_DAUNTLESSSHIELD
-Ups Defense on entry.
+Monte d\efense.
 
 #org @DESC_BALLFETCH
-Fetches first failed Pok\e Ball.
+Ramasse Pok\eBall rat\ee.
 
 #org @DESC_COTTONDOWN
-Lowers everyone's Speed when hit.
+Baisse vitesse quand atq.
 
 #org @DESC_MIRRORARMOR
-Bounces back stat decreases.
+Renvoie baisse de stats.
 
 #org @DESC_GULPMISSILE
-Spits prey if damaged after a swim.
+Change forme apr\rs nage.
 
 #org @DESC_STALWART
 #org @DESC_PROPELLERTAIL
-Moves ignore redirection.
+Ignore attaques redirection.
 
 #org @DESC_STEAMENGINE
-Fire and Water hits boost Speed.
+Monte vitesse quand Eau ou Feu.
 
 #org @DESC_PUNKROCK
-Ups and resists sound moves.
+Monte puis et resiste au son.
 
 #org @DESC_SANDSPIT
-Creates a sandstorm when hit.
+Cr\e\e temp\tte-sable quand attaque.
 
 #org @DESC_ICESCALES
-Halves special damage.
+Divise d\eg\ots sp\eciaux.
 
 #org @DESC_RIPEN
-Doubles Berry effects.
+Double effets des baies.
 
 #org @DESC_ICEFACE
-Takes one free physical hit.
+Immunit\e Atq phys.
 
 #org @DESC_POWERSPOT
-Powers up ally moves.
+Monte puis. alli\es.
 
 #org @DESC_MIMICRY
-Changes type with terrain.
+Change type en fonction terrain.
 
 #org @DESC_SCREENCLEANER
-Screens are removed on entry.
+Enl\rve \ecrans.
 
 #org @DESC_STEELYSPIRIT
-Boosts ally Steel moves.
+Monte puis. atq acier alli\es.
 
 #org @DESC_PERISHBODY
-Gives a perish count on contact.
+Lance Requiem quand contact.
 
 #org @DESC_WANDERINGSPIRIT
-Trades Abilities on contact.
+Echange talents quand contact.
 
 #org @DESC_GORILLATACTICS
-Ups Attack, but allows one move.
+Monte attaque.
 
 #org @DESC_NEUTRALISINGGAS
-All Abilities are nullified.
+Supprime talents.
 
 #org @DESC_PASTEL_VEIL
-Protects team from poison.
+Prot\rge du poison.
 
 #org @DESC_HUNGERSWITCH
-Changes form each turn.
+Change de forme chaque tour.
