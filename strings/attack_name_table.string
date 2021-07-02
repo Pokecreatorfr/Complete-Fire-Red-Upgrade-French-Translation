@@ -162,7 +162,7 @@ Acide
 Flamm\rche
 
 #org @NAME_FLAMETHROWER
-Lance-Flammes
+Lance-Flamme
 
 #org @NAME_MIST
 Brume
@@ -1224,7 +1224,7 @@ Toile \elek
 Nitrocharge
 
 #org @NAME_FROST_BREATH
-Souffle Glac\e
+Souff. Glac\e
 
 #org @NAME_HEART_STAMP
 Cr\rve-C\yur
@@ -1389,19 +1389,19 @@ Saumure
 VentF\e\erique
 
 #org @NAME_DOLL_EYES
-RegardTouchant
+RegardTouch.
 
 #org @NAME_PLAY_ROUGH
 C\olinerie
 
 #org @NAME_MOONBLAST
-Pouv. Lunaire
+Pouv.Lunaire
 
 #org @NAME_DRAIN_KISS
 Vampibaiser
 
 #org @NAME_DAZZLE_GLEAM
-\Eclat Magique
+\Eclat Magiq.
 
 #org @NAME_DISARM_CRY
 Voix enj\ml.
@@ -1437,19 +1437,19 @@ Suc Digestif
 G\eo-Contr\mle
 
 #org @NAME_FLOWER_GUARD
-Garde Florale
+GardeFlorale
 
 #org @NAME_ROTOTILLER
-Fertilisation
+Fertilisat.
 
 #org @NAME_SHIFT_GEAR
 Chgt Vitesse
 
 #org @NAME_STICKY_WEB
-Toile Gluante
+ToileGluante
 
 #org @NAME_STORED_POWER
-Force Ajout\ee
+Force Ajout.
 
 #org @NAME_ACUPRESSURE
 Acupression
@@ -1473,7 +1473,7 @@ Ruse
 Hantise
 
 #org @NAME_PETAL_STORM
-Temp\tte Flor.
+Temp\tteFlor.
 
 #org @NAME_PLAY_NICE
 Camaraderie
