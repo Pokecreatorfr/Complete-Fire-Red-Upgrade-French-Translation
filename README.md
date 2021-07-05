@@ -116,4 +116,4 @@ Scripts" in the documentation.
 Any changes made to header files will require you to clean everything in *build/* and then rerun the build scripts.
 
 ## Traduction francaise
-Traduction Francaise par: 𝕬𝖗𝖑𝖊𝖖𝖚𝖎𝖎𝖓, CynoxxKh, Confidant718666, Styx et moi meme ( Pokécreatorfr )
+Traduction Francaise par: Arlequiin, CynoxxKh, Styx et moi-même (Pokécreatorfr)
