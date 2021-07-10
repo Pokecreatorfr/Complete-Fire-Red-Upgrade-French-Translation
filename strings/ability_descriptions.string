@@ -1,5 +1,230 @@
 #include "src/config.h"
 
+#org @DESC_STENCH
+Repousse POK\eMON sauvage.
+
+#org @DESC_DRIZZLE
+Invoque la pluie en combat.
+
+#org @DESC_SPEEDBOOST
+Am\eliore la VITESSE.
+
+#org @DESC_BATTLEARMOR
+Bloque les coups critiques.
+
+#org @DESC_STURDY
+Ignore les K.O. en un coup.
+
+#org @DESC_DAMP
+Emp\tche auto-destruction.
+
+#org @DESC_LIMBER
+Emp\tche la paralysie.
+
+#org @DESC_SANDVEIL
+Evasion si temp\tte sable.
+
+#org @DESC_STATIC
+Paralyse au toucher.
+
+#org @DESC_VOLTABSORB
+Change l'\electricit\e en PV.
+
+#org @DESC_WATERABSORB
+Change l'eau en PV.
+
+#org @DESC_OBLIVIOUS
+Emp\tche l'attirance.
+
+#org @DESC_CLOUDNINE
+Ignore les effets du climat.
+
+#org @DESC_COMPOUNDEYES
+Augmente la pr\ecision.
+
+#org @DESC_INSOMNIA
+Emp\tche de s'endormir.
+
+#org @DESC_COLORCHANGE
+S'adapte au type ennemi.
+
+#org @DESC_IMMUNITY
+Emp\tche l'empoisonnement.
+
+#org @DESC_FLASHFIRE
+Puissance monte si br\ul\e.
+
+#org @DESC_SHIELDDUST
+Emp\tche le cumul d'effets.
+
+#org @DESC_OWNTEMPO
+Immunise contre le statut Confusion.
+
+#org @DESC_SUCTIONCUPS
+Fixe solidement le corps.
+
+#org @DESC_INTIMIDATE
+Baisse l'ATTAQUE ennemie.
+
+#org @DESC_SHADOWTAG
+Emp\tche la fuite ennemie.
+
+#org @DESC_ROUGHSKIN
+Blesse quand touch\e.
+
+#org @DESC_WONDERGUARD
+Re\coit seul. "sup. eff.".
+
+#org @DESC_LEVITATE
+Ignore les attaques SOL.
+
+#org @DESC_EFFECTSPORE
+Laisse spores si touch\e.
+
+#org @DESC_SYNCHRONIZE
+Transf\rre statuts.
+
+#org @DESC_CLEARBODY
+Emp\tche r\eduction de cap.
+
+#org @DESC_NATURALCURE
+Soigne POK\eMON changeant.
+
+#org @DESC_LIGHTNINGROD
+Attire attaques \elec.
+
+#org @DESC_SERENEGRACE
+Favorise le cumul d'effet.
+
+#org @DESC_SWIFTSWIM
+Monte VITESSE s'il pleut.
+
+#org @DESC_CHLOROPHYLL
+Augmente vitesse au soleil.
+
+#org @DESC_ILLUMINATE
+Augmente les rencontres.
+
+#org @DESC_TRACE
+Imite la capacit\e sp\eciale.
+
+#org @DESC_HUGEPOWER
+Augmente ATTAQUE.
+
+#org @DESC_POISONPOINT
+Empoisonne quand touch\e.
+
+#org @DESC_INNERFOCUS
+Emp\tche la peur.
+
+#org @DESC_MAGMAARMOR
+Emp\tche le gel.
+
+#org @DESC_WATERVEIL
+Emp\tche les br\ulures.
+
+#org @DESC_MAGNETPULL
+Pi\rge les POK\eMON ACIER.
+
+#org @DESC_SOUNDPROOF
+\Evite les attaques sonores.
+
+#org @DESC_RAINDISH
+Gagne quelques PV si pluie.
+
+#org @DESC_SANDSTREAM
+Lance une temp\tte de sable.
+
+#org @DESC_PRESSURE
+Ennemi d\epense plus de PP.
+
+#org @DESC_THICKFAT
+Contre chaleur et froid.
+
+#org @DESC_EARLYBIRD
+Se r\eveille rapidement.
+
+#org @DESC_FLAMEBODY
+Br\ule l'ennemi quand touch\e.
+
+#org @DESC_RUNAWAY
+Am\eliore chances de fuite.
+
+#org @DESC_KEENEYE
+Emp\tche perte de pr\ecision.
+
+#org @DESC_HYPERCUTTER
+Emp\tche r\eduction ATTAQUE.
+
+#org @DESC_PICKUP
+Peut ramasser des objets.
+
+#org @DESC_TRUANT
+Frappe tous les 2 tours.
+
+#org @DESC_HUSTLE
+Substitue pr\ec. par puiss.
+
+#org @DESC_CUTECHARM
+S\eduit quand touch\e.
+
+#org @DESC_PLUS
+Puissance + avec MINUS.
+
+#org @DESC_MINUS
+Puissance + avec PLUS.
+
+#org @DESC_FORECAST
+Change selon le climat.
+
+#org @DESC_STICKYHOLD
+Emp\tche le vol d'objets.
+
+#org @DESC_SHEDSKIN
+Mue pour se soigner.
+
+#org @DESC_GUTS
+Augmente ATT. quand bless\e.
+
+#org @DESC_MARVELSCALE
+Augmente DEF. quand bless\e.
+
+#org @DESC_LIQUIDOOZE
+Blesse quand drain\e.
+
+#org @DESC_OVERGROW
+Augmente attaques PLANTE.
+
+#org @DESC_BLAZE
+Augmente attaques feu.
+
+#org @DESC_TORRENT
+Augmente attaques EAU.
+
+#org @DESC_SWARM
+Augmente attaques INSECT.
+
+#org @DESC_ROCKHEAD
+Emp\tche d\eg\ots du recul.
+
+#org @DESC_DROUGHT
+Invoque le soleil.
+
+#org @DESC_ARENATRAP
+Emp\tche la fuite.
+
+#org @DESC_VITALSPIRIT
+Emp\tche le sommeil.
+
+#org @DESC_WHITESMOKE
+Emp\tche r\eduction des cap.
+
+#org @DESC_SHELLARMOR
+Bloque les coups critiques.
+
+#org @DESC_AIRLOCK
+Ignore les effets du climat.
+
 #org @DESC_SWEETVEIL
 Emp\tche l'endormissement.
 
@@ -10,6 +235,8 @@ Les attaques mult. frappes plus.
 L'electricit\e augmente la Vit
 
 #org @DESC_MULTISCALE
+R\eduit d\egats si PV pleins.
+
 #org @DESC_FULLMETALBODY
 Emp\tche la baisse des stats.
 
