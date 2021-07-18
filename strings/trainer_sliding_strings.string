@@ -3,10 +3,10 @@
 //Notice the extra whitespace character after the "\p"s. Without it, the message won't disappear from the screen when the player presses A.
 
 #org @gText_DefaultTrainerDynamaxMsg
-Time to Dynamax!\p 
+C'est l'heure du Dynamax!\p 
 
 #org @gText_TestTrainerDynamaxMsg
-I now shall unleash the power\nof Dynamax!\p 
+Je vais lib\erer le pouvoir\ndu Dynamax!\p 
 
 //For Pokemon Unbound - Feel free to remove, and do not place strings below
 #ifdef UNBOUND
