@@ -5,25 +5,25 @@
 \n[BUFFER1]'s [BUFFER2]\lwere swapped![PAUSE_UNTIL_PRESS]
 
 #org @gMenuText_Move
-Move
+D\eplacer
 
 #org @gText_MoveItemWhere
-Move to where?
+D\eplacer o\d?
 
 #org @gText_FieldMoveDesc_RockClimb
-Scale rocky cliffs.
+Escalader des falaises rocheuses.
 
 #org @gText_FieldMoveDesc_Defog
-Remove foggy weather.
+Enlever le climat brumeux.
 
 #org @gText_FieldMoveDesc_Dive
-Dive underwater.
+Plonger sous l'eau.
 
 #org @gText_EVReducingBerryBothEffects
-[BUFFER1] became more friendly.\nHowever, its base [BUFFER2] fell![PAUSE_UNTIL_PRESS]
+[BUFFER1] devient plus amical.\nCependant, ses base [BUFFER2] diminuent![PAUSE_UNTIL_PRESS]
 
 #org @gText_EVReducingBerryLoweredStat
-[BUFFER1] adores you!\nIts base [BUFFER2] fell![PAUSE_UNTIL_PRESS]
+[BUFFER1] avous adore!\nSes bases [BUFFER2] diminuent![PAUSE_UNTIL_PRESS]
 
 #org @gText_EVReducingBerryIncreasedFriendship
 [BUFFER1] est devenu plus heureux.\nSes bases [BUFFER2] ne peuvent diminuer.[PAUSE_UNTIL_PRESS]
