@@ -1,375 +1,375 @@
 #org @gText_SuperEffectiveTarget
-It's super effective on\n[TARGET]!
+C'est super efficace sur\n[TARGET]!
 
 #org @gText_SuperEffectiveTwoFoes
-It's super effective on [DEF_PREFIX_5]\n[TARGET_NAME] and [TARGET_PARTNER_NAME]!
+C'est super efficace sur [DEF_PREFIX_5]\n[TARGET_NAME] et [TARGET_PARTNER_NAME]!
 
 #org @gText_NotVeryEffectiveTarget
-It's not very effective on\n[TARGET][.]
+Ce n'est pas tr\rs efficace sur\n[TARGET][.]
 
 #org @gText_NotVeryEffectiveTwoFoes
-It's not very effective on [DEF_PREFIX_5]\n[TARGET_NAME] and [TARGET_PARTNER_NAME][.]
+Ce n'est pas tr\rs efficace sur [DEF_PREFIX_5]\n[TARGET_NAME] et [TARGET_PARTNER_NAME][.]
 
 #org @gText_DoesntAffectTwoFoes
-It had no effect on [DEF_PREFIX_5]\n[TARGET_NAME] and [TARGET_PARTNER_NAME][.]
+\Ca n'affecte pas [DEF_PREFIX_5]\n[TARGET_NAME] et [TARGET_PARTNER_NAME][.]
 
 #org @gText_CriticalHit
-[MAIN_COLOUR][02][SHADOW_COLOUR][09]A critical hit!
+[MAIN_COLOUR][02][SHADOW_COLOUR][09]Coup Critique!
 
 #org @gText_CriticalHitTarget
-[MAIN_COLOUR][02][SHADOW_COLOUR][09]A critical hit[MAIN_COLOUR][01][SHADOW_COLOUR][06] on\n[TARGET]!
+[MAIN_COLOUR][02][SHADOW_COLOUR][09]Coup Critique[MAIN_COLOUR][01][SHADOW_COLOUR][06] sur\n[TARGET]!
 
 #org @gText_CriticalHitTwoFoes
-[MAIN_COLOUR][02][SHADOW_COLOUR][09]A critical hit[MAIN_COLOUR][01][SHADOW_COLOUR][06] on [DEF_PREFIX_5]\n[TARGET_NAME] and [TARGET_PARTNER_NAME]!
+[MAIN_COLOUR][02][SHADOW_COLOUR][09]Coup Critique[MAIN_COLOUR][01][SHADOW_COLOUR][06] sur [DEF_PREFIX_5]\n[TARGET_NAME] et [TARGET_PARTNER_NAME]!
 
 #org @TrickRoomSetString
-[ATTACKER] twisted\nthe dimensions!
+[ATTACKER] fausse\nles dimensions!
 
 #org @WonderRoomSetString
-It created a bizarre area in which\nthe Def and Sp. Def stats are swapped!
+La D\efense et D\efense Sp\e. sont\ninterverties!
 
 #org @MagicRoomSetString
-It created a bizarre are in which\nheld items lose their effects!
+L'effet des objets tenus est\nneutralis\e!
 
 #org @GravitySetString
-Gravity intensified!
+La gravit\e s'est intensifi\ee!
 
 #org @IonDelugeShowerString
-A deluge of ions showers the\nbattlefield!
+Un deluge de plasma s'abat sur\nle terrain!
 
 #org @NoMoreAirborneFromGravityString
-[SCRIPTING_BANK] couldn't\nstay airborne due to Gravity!
+[SCRIPTING_BANK] ne peut rester\nen l'air \a cause de la Gravit\e!
 
 #org @Bank0AWasBroughtDownString
-[SCRIPTING_BANK] was\nbrought down!
+[SCRIPTING_BANK] a \et\e\nabattu!
 
 #org @ElectricTerrainSetString
-An electric current runs across\nthe battlefield!
+De l'\electricit\e parcourt\nle terrain!
 
 #org @GrassyTerrainSetString
-Grass grew to cover the\nbattlefield!
+Un beau gazon pousse sur\nle terrain!
 
 #org @MistyTerrainSetString
-Mist swirls around the\nbattlefield!
+Le terrain se couvre de\nbrume!
 
 #org @PsychicTerrainSetString
-The battlefield got weird!
+Le sol se met \a r\eagir de\nfa\con bizarre!
 
 #org @TargetTransformedIntoType
-[TARGET]'s type\nchanged to [BUFFER][00]!
+Le type de [TARGET]a \et\e\nchang\e en type [BUFFER][00]!
 
 #org @gText_AttackerChangedType
-[ATTACKER]'s type\nchanged to [BUFFER][00]!
+Le type de [ATTACKER]a \et\e\nchang\e en type [BUFFER][00]!
 
 #org @gText_AbilityChangedType
-[SCRIPTING_BANK]'s type\nchanged to [BUFFER][00]!
+Le type de [SCRIPTING_BANK]a \et\e\nchang\e en type [BUFFER][00]!
 
 #org @ThirdTypeAddedString
-[BUFFER][00] type was added to\n[TARGET]!
+Le type[BUFFER][00] a \et\e ajout\e\nau [TARGET]!
 
 #org @gText_MimicryReturnedToNormal
-[SCRIPTING_BANK] returned\nto its original type!
+[SCRIPTING_BANK] est retourn\e\n\a son type original!
 
 #org @FairyLockString
-[ATTACKER] locked down\nthe battlefield!
+[ATTACKER] a v\erouill\e\nle terrain!
 
 #org @HappyHourString
-Everyone is caught up in the\nhappy atmosphere!
+L'ambiance est euphorique!
 
 #org @CelebrateString
-Congratulations [PLAYER_NAME]!
+F\elicitations [PLAYER_NAME]!
 
 #org @HoldHandsString
-[ATTACKER] and [TARGET]\nheld hands!
+[ATTACKER] et [TARGET]\nse tiennent la main!
 
 #org @TailwindSetString
-The tailwind blew from behind\n[FD][36] team!
+Un vent arri\rre souffle sur\nl'\equipe [FD][36]!
 
 #org @LuckyChantSetString
-The Lucky Chant shielded\n[FD][36] team from critical hits!
+L'air veinard immunise l'\equipe\n[FD][36]Contre les coups critiques!
 
 #org @EntrainmentString
 #org @WorrySeedString
 #org @SimpleBeamString
-[TARGET] acquired\n[TARGET_ABILITY]!
+[TARGET] a acquis\n[TARGET_ABILITY]!
 
 #org @AbilitySuppressedString
-[TARGET]'s Ability\nwas suppressed!
+Le talent de [TARGET]\na \et\e annul\e!
 
 #org @TargetStatsResetString
-[TARGET]'s stat changes\nwere removed!
+Les changements de stats de\n[TARGET] ont \et\e supprim\es!
 
 #org @RoastedBerryString
-[TARGET]'s [FD][16]\nwas burnt up!
+[FD][16] de [TARGET]\na \et\e br\ul\e!
 
 #org @gText_TargetWasInfested
-[TARGET] has been\nafflicted with an Infestation!
+[TARGET] a \et\e\nafflig\e avec Harc\rlement!
 
 #org @SkyDropUpString
-[ATTACKER] took\n[TARGET] into the sky!
+[ATTACKER] emporte\n[TARGET] dans le ciel!
 
 #org @FreedFromSkyDropString
-[SCRIPTING_BANK] was freed\nfrom the Sky Drop!
+[SCRIPTING_BANK] a \et\e lib\er\e\nde la Chute Libre!
 
 #org @CraftyShieldSetString
-Crafty Shield protected\n[FD][36] team!
+L'\equipe [FD][36] est prot\eg\ee\npar la capacit\e Vigilance!
 
 #org @MatBlockSetString
-[ATTACKER] intends to flip\nup a mat and block incoming attacks!
+[ATTACKER] a l'intention de\nretourner le tapis et bloquer l'attaque!
 
 #org @QuickGuardSetString
-Quick Guard protected\n[FD][36] team!
+L'\equipe [FD][36] est prot\eg\ee\npar la capacit\e Pr\evention!
 
 #org @WideGuardSetString
-Wide Guard protected\n[FD][36] team!
+L'\equipe [FD][36] est prot\eg\ee\npar la capacit\e Garde Large!
 
 #org @CraftyShieldProtectedString
-The Crafty Shield protected\n[TARGET]!
+[TARGET] est prot\eg\e par\nla capacit\e Vigilance!
 
 #org @MatBlockProtectedString
-[CURRENT_MOVE] was blocked by the\nkicked-up mat!
+[CURRENT_MOVE] a \et\e bloqu\ee\npar kicked-up mat!
 
 #org @QuickGuardProtectedString
-The Quick Guard protected\n[TARGET]!
+[TARGET] est prot\eg\e par\nla capacit\e Pr\evention!
 
 #org @WideGuardProtectedString
-The Wide Guard protected\n[TARGET]!
+[TARGET] est prot\eg\e par\nla capacit\e Garde Large!
 
 #org @gText_JawLockNoEscape
-Neither Pok\emon can run away!
+Aucun Pok\emon ne peut s'enfuir!
 
 #org @gText_CanNoLongerEscape
-[TARGET] can no longer\nescape!
+[TARGET] ne peut plus\ns'\echapper!
 
 #org @gText_CloakedInLight
-[ATTACKER] became\ncloaked in light!
+[ATTACKER] devient\nenvelopp\e de lumi\rre!
 
 #org @gText_ItemPumpedMon
-[SCRIPTING_BANK] used the\n[LAST_ITEM] to get pumped!
+[SCRIPTING_BANK] utilise\n[LAST_ITEM] pour s'am\eliorer!
 
 #org @gText_ItemIncreasedSpeedBracket
-[SCRIPTING_BANK] can act\nfaster, thanks to its [LAST_ITEM]!
+[SCRIPTING_BANK] peut agir plus\nrapidement gr\oce \a sa [LAST_ITEM]!
 
 #org @gText_MeteorBeamCharge
-[ATTACKER] is\noverflowing with space power!
+La puissance du cosmos afflue dans le\n corps de [ATTACKER]!
 
 //Status Strings
 
 #org @gText_TargetStaysAwake
-[TARGET] stays awake!
+[TARGET] reste \eveill\e!
 
 #org @gText_TeamProtectedBySafeguard
-[TARGET]'s party is\nprotected by Safeguard!
+L'\equipe de [TARGET]\nest prot\eg\ee par Rune Protect!
 
 #org @gText_TargetWrappedInMistyTerrain
-[TARGET] surrounds\nitself in a protective mist!
+[TARGET] s'entoure\navec une brume protectrice!
 
 #org @gText_TargetWrappedInElectricTerrain
-[TARGET] surrounds\nitself with electrified terrain!
+[TARGET] s'entoure\navec un champ \electrifi\e!
 
 #org @gText_TargetAlreadyHasStatusCondition
-[TARGET] already has\na status condition!
+[TARGET] a d\ej\a un\nprobl\rme de statut!
 
 #org @gText_AlreadyDrowsy
-[TARGET] is already\ndrowsy!
+[TARGET] est d\ej\a\nsomnolent!
 
 #org @gText_SweetVeilProtects
-[TARGET] surrounded\nitself with a veil of sweetness!
+[TARGET] s'entoure\navec un voile de douceur!
 
 #org @gText_FlowerVeilProtects
-[TARGET] surrounded\nitself with a veil of petals!
+[TARGET] s'entoure\navec un voile de p\etales!
 
 #org @gText_AromaVeilProtects
-[TARGET] is protected\nby an aromatic veil!
+[TARGET] est prot\eg\e\npar un voile aromatique!
 
 #org @gText_SleepClausePrevents
-The sleep clause prevents more\nPok\emon from being put to sleep!
+La sleep clause emp\tche plus\nde Pok\emon d'\ttre endormi!
 
 #org @gText_AbilityPreventsStatLoss
-[SCRIPTING_BANK]'s stats were\nnot lowered!
+Les stats de [SCRIPTING_BANK]\nn'ont pas \et\e r\eduite!
 
 #org @gText_AbilityPreventsSpecificStatLoss
-[SCRIPTING_BANK]'s [BUFFER][00]\nwas not lowered!
+[BUFFER][00] de [SCRIPTING_BANK]\nn'a pas \et\e r\eduite!
 
 #org @gText_AbilityPreventsConfusion
-[SCRIPTING_BANK] doesn't\nbecome confused!
+[SCRIPTING_BANK] n'est pas\ndevenu confus!
 
 #org @gText_AbilityBlocksHealBell
-[SCRIPTING_BANK] blocks\n[CURRENT_MOVE]!
+[SCRIPTING_BANK] bloque\n[CURRENT_MOVE]!
 
 #org @gText_DefogRemovedSideStatus
-[FD][37] team's [BUFFER][00]\nwore off!
+[BUFFER][00] de l'\equipe [FD][37]\ns'est \eteint!
 
 #org @gText_ScreenRaisedStat
-[CURRENT_MOVE] raised [FD][36]\nteam's [BUFFER][00]!
+[CURRENT_MOVE] augmente [FD][36]\n[BUFFER][00] de l'\equipe!
 
 #org @gText_SetAuroraVeil
-Aurora Veil protects [FD][36] team\nagainst physical and special moves!
+Voile aurore augmente la r\esistance de\n l'\equipe [FD][36]\naux capacit\es physiques et speciales!
 
 #org @gText_ShroudedInMist
-[BUFFER][38] team became\nshrouded in Mist!
+L'\equipe [BUFFER][38] devient\nenvelopp\ee de brume!
 
 #org @gText_SideStatusWoreOff
-[BUFFER][38] team's [BUFFER][00]\nwore off!
+[BUFFER][00] de [BUFFER][38]\ns'est \eteint!
 
 #org @gText_TauntWoreOff
-[SCRIPTING_BANK]'s Taunt\nwore off!
+Provoc de [SCRIPTING_BANK]\ns'est arr\tt\e!
 
 #org @gText_TailwindWoreOff
-[BUFFER][38] team's tailwind\npetered out!
+Vent arri\rre de [BUFFER][38]\ns'est arr\tt\e!
 
 #org @gText_LuckyChantWoreOff
-[BUFFER][38] team's Lucky Chant wore off!
+Champ Veinard de [BUFFER][38]\ns'est arr\tt\e!
 
 #org @gText_RainbowDisappeared
-The rainbow on [FD][36] team's\nside disappeared!
+L'arc-en ciel sur le c\mt\e de l'\equipe de [FD][36]\na disparu!
 
 #org @gText_SeaOfFireDisappeared
-The sea of fire disappeared from\naround [FD][36] team!
+La mer de feu a disparu\nautour de l'\equipe [FD][36]!
 
 #org @gText_SwampDisappeared
-The swamp around [FD][36] team\ndisappeared!
+Le marais autour de l'\equipe [FD][36]\na disparu!
 
 #org @gText_WhiteHerbFling
-The [LAST_ITEM] restored\n[SCRIPTING_BANK]'s status!
+[LAST_ITEM] a restor\e\nle statut de [SCRIPTING_BANK]!
 
 #org @gText_BellyDrumMinimizedAttack
-[ATTACKER] cut its own HP\nand minimized Attack!
+[ATTACKER] divisent ses PVs\net minimise l'Attaque!
 
 #org @gText_SqueezedByOctolock
-[ATTACKER] was squeezed\nby the Octolock!
+[ATTACKER] a \et\e press\e\npar l'Octoprise!
 
 #org @gText_NoRetreatTrapped
-[ATTACKER] can no longer\nescape because it used [CURRENT_MOVE]!
+[ATTACKER] ne peut plus\ns'\echapper car il a utilis\e[CURRENT_MOVE]!
 
 #org @gText_TarShotAffected
-[TARGET] became\nweaker to fire!
+[TARGET] devient\nplus faible au feu!
 
 #org @gText_TargetWasCaughtInSnapTrap
-[TARGET] got trapped\nby a snap trap!
+[TARGET] s'est fait pi\eg\e
 
 #org @gText_HurtBySeaOfFire
-[ATTACKER] is hurt\nby the sea of fire!
+[ATTACKER] a \et\e bless\e\npar la mer de feu!
 
 #org @gText_BallFetchRetrievedItem
-[SCRIPTING_BANK] found one\n[LAST_ITEM]!
+[SCRIPTING_BANK] a trouv\e\n[LAST_ITEM]!
 
 #org @gText_PerishBodyActivated
-Both Pok\emon will faint in\nthree turns!
+Les deux Pok\emon vont \ttre mit KO\nen trois turns!
 
 #org @gText_SurroundedByGMaxVineLash
-[FD][37] team got trapped\nwith vines!
+L'\equipe [FD][37] a \et\e pi\eg\ee\navec des vignes!
 
 #org @gText_HurtByGMaxVineLash
-[ATTACKER] is hurt by\nG-Max Vine Lash's ferocious beating!
+[ATTACKER] a \et\e bless\e oar\nles coups f\eroces de Fouet G-Max!
 
 #org @gText_GMaxVineLashEnded
-The vines around [FD][36]\nteam disappeared!
+Les vignes autour de l'\equipe\n[FD][36] a disparu!
 
 #org @gText_SurroundedByGMaxWildfire
-[FD][37] team was surrounded\nby fire!
+L'\equipe [FD][37] est entour\e\npar le feu!
 
 #org @gText_HurtByGMaxWildfire
-[ATTACKER] is burning\nup within G-Max Wildfire's flame!
+[ATTACKER] brule\ndans la flame de Fournaise G-Max!
 
 #org @gText_GMaxWildfireEnded
-The G-Max Wildfire flames around\n[FD][36] team disappeared!
+Les flames de Fournaise G-Max\nautour de l'\equipe de [FD][36] a disparu!
 
 #org @gText_SurroundedByGMaxCannonade
-[FD][37] team got caught in\nthe vortex of water!
+L'\equipe de [FD][37] a \et\e captur\e\ndans un vortex d'eau!
 
 #org @gText_HurtByGMaxCannonade
-[ATTACKER] is hurt by\nG-Max Cannonade's vortex!
+[ATTACKER] est bless\e par\nle vortex de Canonnade G-Max!
 
 #org @gText_GMaxCannonadeEnded
-The vortex of water around\n[FD][36] team disappeared!
+Le vortex d'eau autour de\nl'\equipe [FD][36] a disparu!
 
 #org @gText_SurroundedByGMaxVolcalith
-[FD][37] team was surrounded\nby rocks!
+L'\equipe [FD][37] est encercl\e\npar les rochers!
 
 #org @gText_HurtByGMaxVolcalith
-[ATTACKER] is hurt\nby G-Max Volcalith's rocks!
+[ATTACKER] est bless\e\npar les rochers de T\ephra G-Max!
 
 #org @gText_GMaxVolcalithEnded
-The G-Max Volcalith rocks around\n[FD][36] team disappeared!
+Les rochers de T\ephra G-Max autour\nde l'\equipe [FD][36] a disparu!
 
 #org @gText_TrappedByGMaxCentiferno
-[FD][37] team has become\ntrapped in a fiery vortex!
+L'\equipe [FD][37] est pi\eg\ee\ndans un vortex de feu!
 
 #org @gText_CouldntFullyProtect
-[TARGET] couldn't\nfully protect itself and got hurt!
+[TARGET] n'a pas pu se\nprot\eger comp\rtement et s'est bless\e!
 
 //Other Battle Features
 
 #org @gText_Devolved
-[EFFECT_BANK] has devolved\ninto [BUFFER][00]!
+[EFFECT_BANK] a d\es\evolu\e\nen [BUFFER][00]!
 
 #org @gText_DevolvedForgotMove
-[ATTACKER] devolved and\nforgot the move it was going to use!
+[ATTACKER] a d\es\evolu\e et a\noubli\e l'attaque qu'il devait utiliser!
 
 #org @gText_DevolutionsStatsReset
-[EFFECT_BANK]'s stats\nand primary status were reset!
+Les stats de [EFFECT_BANK]\n et ses statuts ont \et\e r\einitialis\es!
 
 #org @gText_CamomonsTypeReveal
-[SCRIPTING_BANK] appears as the\n[BUFFER][00]-type!
+[SCRIPTING_BANK] appara\qt en \etant\nde type [BUFFER][00]-!
 
 #org @gText_CamomonsTypeRevealDualType
-[SCRIPTING_BANK] appears as the\n[BUFFER][00]- and [BUFFER][01]-type!
+[SCRIPTING_BANK] appara\qt en \etant\nde type [BUFFER][00]- et [BUFFER][01]-!
 
 #org @gText_DynamaxUsable
-Dynamax Energy gathered\naround you!
+L'\energie Dynamax se rassemble\nautour de vous!
 
 #org @gText_MonDynamaxed
-[SCRIPTING_BANK] created a\nprojection of itself with Dynamax!
+[SCRIPTING_BANK] a cr\ee une\nprojection de lui-m\tme avec le Dynamax!
 
 #org @gText_DynamaxEnded
-[SCRIPTING_BANK] is no longer\nDynamaxed!
+[SCRIPTING_BANK] n'est plus\n en forme Dynamax!
 
 #org @gText_DynamaxAttackCancel
-[ATTACKER] shook its\nhead.\pIt seems like it can't use\nthis move[.]
+[ATTACKER] a secou\e sa\nt\tte.\pOn dirait qu'il ne peut pas utiliser\ncette attaque[.]
 
 #org @gText_RaidBattleAttackCancel
-The move was blocked by the\npower of Dynamax!
+L'attaque a \et\e bloqu\ee par le\npouvoir du Dynamax!
 
 #org @gText_DynamaxItemBlock
-The item was blocked by the\npower of Dynamax!
+L'objet a \et\e bloqu\ee par le\npouvoir du Dynamax!
 
 #org @gText_RaidBattleReveal
-[SCRIPTING_BANK] appears\nto be massive!
+[SCRIPTING_BANK] semble\n\ttre massif!
 
 #org @gText_RaidBattleStormStarted
-A storm started brewing above you.
+Une temp\tte commence au-dessus de vous.
 
 #org @gText_RaidPokemonGettingDesperate
-[SCRIPTING_BANK] is getting\ndesperate!\pIts attacks are growing more\naggressive!
+[SCRIPTING_BANK] devient\nd\esesp\er\e!\pIts attacks are growing more\naggressive!
 
 #org @gText_RaidShield
-A mysterious barrier appeared in\nfront of [SCRIPTING_BANK]\land is protecting it from attacks!
+Une barri\rre myst\erieuse appara\qt\ndevant [SCRIPTING_BANK]\let le prot\rge des attaques!
 
 #org @gText_RaidShieldProtected
-The mysterious barrier is\nprotecting [TARGET]\lfrom the impacts of the move!
+La barri\rre myst\erieuse\nprot\rge [TARGET]\ldes impacts de l'attaque!
 
 #org @gText_RaidShieldBroke
-The mysterious barrier that was\nprotecting [SCRIPTING_BANK]\ldisappeared!
+La barri\rre myst\erieuse qui\nprot\egeait [SCRIPTING_BANK]\la disparu!
 
 #org @gText_RaidBattleStatBoost
-[SCRIPTING_BANK]'s [BUFFER][00]\n[BUFFER][01]
+[BUFFER][00] de [SCRIPTING_BANK]\n[BUFFER][01]
 
 #org @gText_RaidBattleStatNullification
-[SCRIPTING_BANK] nullifed the\nstat changes of and is ignoring\lthe Abilities of other Pok\emon!
+[SCRIPTING_BANK] a r\einitialis\e\nles changements de stats et ignore\lles talents des autres Pok\emon!
 
 #org @gText_RaidBattleKO1
-The storm raging above you is\ngrowing stronger!
+La temp\tte qui fait rage au dessus de\nvous devient plus puissante!
 
 #org @gText_RaidBattleKO2
-The storm is growing even\nstronger!
+La temp\tte devient encore plus\npuissante!
 
 #org @gText_RaidBattleKO3
-The storm is getting too strong to\nwithstand!
+La temp\tte est trop puissante pour\nrester!
 
 #org @gText_RaidBattleKO4
-[PLAYER_NAME] was blown out of the\nbattle!
+[PLAYER_NAME] \et\e expuls\e du\ncombat!
 
 #org @gText_RaidMonRanAway
-[PLAY_SE][11][00][FD][06] disappeared\nsomewhere[.]\p
+[PLAY_SE][11][00][FD][06] a disparu\nquelque part[.]\p
 
