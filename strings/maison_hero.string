@@ -1,3 +1,8 @@
 #org @gText_script_descente_escaliers_premiere_fois1_Msgmaman
 Bonjour [PLAYER],\nComment va tu aujourd'hui?\lLe professeur t'attend a son\llaboratoire, va donc le voir.
 
+#org @gText_scripttv_Msgtv
+La télévision est allumée et\nreliée à la console WII U.\lL'application Youtube est\llancée, [PLAYER] regarde une\lvidéo de la chaîne youtube\lLE REGLEMENT
+
+#org @gText_scriptwiiu_Msgwiiu
+C'est votre console WII U.\nElle est allumée.
