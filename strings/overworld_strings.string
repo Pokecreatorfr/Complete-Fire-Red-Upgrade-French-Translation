@@ -2,7 +2,7 @@
 Mauvais type de m\emoire!\nVeuillez changer en Flash128k.
 
 #org @gText_MainMenuEnableRTC
-Attention!\pLe system correct du temps ne\n peut \ttre lu.\pActivez le Real Time Clock (RTC),\net mettez l'heure correcte.
+Attention!\pLe systeme correct du temps ne\npeut \ttre lu.\pActivez le Real Time Clock (RTC),\net mettez l'heure correcte.
 
 #org @gText_UsedVar2WildStronger
 [BUFFER][01] utilise \n[BUFFER][03].\pLa chance de rencontrer de puissants\nPok\emon dans cette zone a augment\e.[FC][09]
