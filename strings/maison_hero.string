@@ -6,3 +6,6 @@ La télévision est allumée et\nreliée à la console WII U.\lL'application You
 
 #org @gText_scriptwiiu_Msgwiiu
 C'est votre console WII U.\nElle est allumée.
+
+#org @gText_scriptpc_Pcstring
+[PLAYER] Allume le PC.
