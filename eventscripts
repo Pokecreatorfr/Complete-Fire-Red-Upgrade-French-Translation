@@ -1,3 +1,8 @@
-##
+## 4.0
 tile 4 0 0 EventScript_script_descente_escaliers_premiere_fois1_Start
 tile 4 0 1 EventScript_script_descente_escaliers_premiere_fois2_Start
+## 4.1
+sign 4 1 0 EventScript_scriptwiiu_Start
+sign 4 1 1 EventScript_scripttv_Start
+sign 4 1 2 EventScript_scripttv_Start
+
