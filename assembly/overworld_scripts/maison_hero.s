@@ -73,3 +73,25 @@ EventScript_scripttv_Start:
 EventScript_scriptwiiu_Start:
 	msgbox gText_scriptwiiu_Msgwiiu MSG_SIGN
 	end
+.global EventScript_scriptpc_Start
+EventScript_scriptpc_Start:
+	special 0x187
+	compare LASTRESULT 0x2
+	if 0x1 _goto 0x81A7AE0
+	lockall
+	setvar 0x8004 0x20
+	special 0x17D
+	setvar 0x8004 0x1
+	special 0xD6
+	sound 0x4
+	msgbox gText_scriptpc_Pcstring MSG_KEEPOPEN
+	special 0xF9
+	waitstate
+	special 0x190
+	releaseall
+	end
+
+	@---------------
+EventScript_scriptpc_End:
+	release
+	end
