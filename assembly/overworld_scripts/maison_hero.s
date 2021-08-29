@@ -3,6 +3,8 @@
 
 .include "../xse_commands.s"
 .include "../xse_defines.s"
+
+@@@ RDC @@@@
 .global EventScript_script_descente_escaliers_premiere_fois1_Start
 EventScript_script_descente_escaliers_premiere_fois1_Start:
 	lock
@@ -60,3 +62,14 @@ EventScript_script_descente_escaliers_premiere_fois2_Mouvement2:
 .byte 0xE
 .byte 0x2
 .byte 0xFE
+
+@@@ Chambre Hero @@@
+.global EventScript_scripttv_Start
+EventScript_scripttv_Start:
+	msgbox gText_scripttv_Msgtv MSG_SIGN
+	end
+
+.global EventScript_scriptwiiu_Start
+EventScript_scriptwiiu_Start:
+	msgbox gText_scriptwiiu_Msgwiiu MSG_SIGN
+	end
