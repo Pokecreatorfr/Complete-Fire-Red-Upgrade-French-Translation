@@ -9,3 +9,12 @@ C'est votre console WII U.\nElle est allumée.
 
 #org @gText_scriptpc_Pcstring
 [PLAYER] Allume le PC.
+
+#org @gText_scriptprof_Messageprof1
+[PLAYER] !!!
+
+#org @gText_scriptprof_Messageprof2
+[PLAYER] suis moi dans mon\nlaboratoire, il faut que je te\lmontre quelque chose de toute\lurgence.
+
+#org @gText_scriptprof_Messageprof3
+Dépêche toi !!!
