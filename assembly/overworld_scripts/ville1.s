@@ -5,7 +5,11 @@
 .include "../xse_defines.s"
 
 @@@ RDC @@@@
-.global EventScript_scriptprof_Start
+.global gMapScripts_Scriptprof
+gMapScripts_Scriptprof:
+	mapscript MAP_SCRIPT_ON_FRAME_TABLE EventScript_scriptprof_Start
+	.byte MAP_SCRIPT_TERMIN
+
 EventScript_scriptprof_Start:
 	compare 0x4050 0x1
 	if 0x1 _call EventScript_scriptprof_Script
