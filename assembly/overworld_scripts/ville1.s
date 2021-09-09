@@ -21,6 +21,7 @@ LevelScripts_scriptprof_Start:
 
 LevelScripts_scriptprof_Script:
 	lockall
+	setvar 0x4050 0x2
 	pause 0x1E
 	playsong 0x12E 0x0
 	special 0x113
@@ -43,20 +44,6 @@ LevelScripts_scriptprof_Script:
 	fadescreen 0x0
 	warp 0x4 0x2 0x0
 	fadescreen 0x1
-	special 0x113
-	applymovement 0x7F LevelScripts_scriptprof_Movecamera3
-	waitmovement 0x7F
-	applymovement 0x1 LevelScripts_scriptprof_Movementprof1
-	waitmovement 0x1
-	msgbox gText_scriptprof_Messageprof3 0x3
-	applymovement 0x7F LevelScripts_scriptprof_Movecamera4
-	waitmovement 0x7F
-	special 0x114
-	applymovement 0xFF LevelScripts_scriptprof_Movementplayer2
-	waitmovement 0xFF
-	pause 0x100
-	applymovement 0xFF LevelScripts_scriptprof_Movementplayer3
-	waitmovement 0xFF
 	releaseall
 	end
 
