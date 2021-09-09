@@ -1,5 +1,5 @@
 ##3.0
-#map 3 0 gMapScripts_Scriptprof
+map 3 0 gMapScripts_Scriptprof
 ## 4.0
 tile 4 0 0 EventScript_script_descente_escaliers_premiere_fois1_Start
 tile 4 0 1 EventScript_script_descente_escaliers_premiere_fois2_Start
