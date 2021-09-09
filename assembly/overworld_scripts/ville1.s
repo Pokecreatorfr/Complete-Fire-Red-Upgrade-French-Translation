@@ -7,7 +7,12 @@
 @@@ RDC @@@@
 .global gMapScripts_Scriptprof
 gMapScripts_Scriptprof:
-	mapscript MAP_SCRIPT_ON_FRAME_TABLE LevelScripts_scriptprof_Script
+	mapscript MAP_SCRIPT_ON_FRAME_TABLE LevelScripts_scriptprof_Scripts
+	.byte MAP_SCRIPT_TERMIN
+
+LevelScripts_scriptprof_Scripts:
+	levelscript 0x4050, 1, LevelScripts_scriptprof_Script
+    .hword LEVEL_SCRIPT_TERMIN
 
 LevelScripts_scriptprof_Start:
 	compare 0x4050 0x1
