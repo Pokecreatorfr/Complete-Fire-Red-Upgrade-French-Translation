@@ -60,10 +60,10 @@ LevelScripts_scriptprof_Movementprof2:
 	.byte walk_up, walk_up, walk_up, walk_up, walk_up, walk_up, walk_right, walk_right, walk_up, walk_right, walk_right, walk_up, end_m
 
 LevelScripts_scriptprof_Movementprof3:
-	.byte walk_down, walk_left, walk_down, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, walk_down, walk_down, walk_right, walk_right, walk_right, walk_down_very_slow, end_m
+	.byte walk_down, walk_left, walk_down, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, walk_down, walk_down, walk_right, walk_right, walk_right, walk_up_very_slow, end_m
 
 LevelScripts_scriptprof_Movementplayer1:
-	.byte walk_down, walk_down, walk_left, walk_down, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, walk_down, walk_down, walk_right, walk_right, walk_right, walk_down_very_slow, end_m
+	.byte walk_down, walk_down, walk_left, walk_down, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, walk_down, walk_down, walk_right, walk_right, walk_right, walk_up_very_slow, end_m
 
 LevelScripts_scriptprof_Movecamera3:
 	.byte walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, end_m
