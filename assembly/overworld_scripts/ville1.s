@@ -4,7 +4,6 @@
 .include "../xse_commands.s"
 .include "../xse_defines.s"
 
-@@@ RDC @@@@
 .global gMapScripts_Scriptprof
 gMapScripts_Scriptprof:
 	mapscript MAP_SCRIPT_ON_FRAME_TABLE LevelScripts_scriptprof_Scripts
@@ -21,7 +20,6 @@ LevelScripts_scriptprof_Start:
 
 LevelScripts_scriptprof_Script:
 	lockall
-	setvar VAR_HISTOIRE_PRINCIPALE 0x2
 	pause 0x1E
 	playsong 0x12E 0x0
 	special 0x113
