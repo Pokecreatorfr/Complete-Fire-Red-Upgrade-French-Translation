@@ -13,11 +13,6 @@ LevelScripts_scriptprof_Scripts:
 	levelscript 0x4050, 1, LevelScripts_scriptprof_Script
     .hword LEVEL_SCRIPT_TERMIN
 
-LevelScripts_scriptprof_Start:
-	compare 0x4050 0x1
-	if 0x1 _call LevelScripts_scriptprof_Script
-	end
-
 LevelScripts_scriptprof_Script:
 	lockall
 	pause 0x1E
@@ -39,9 +34,7 @@ LevelScripts_scriptprof_Script:
 	applymovement PLAYER LevelScripts_scriptprof_Movementplayer1
 	applymovement 0x1 LevelScripts_scriptprof_Movementprof3
 	waitmovement 0x1
-	fadescreen 0x0
 	warp 0x4 0x2 0x0
-	fadescreen 0x1
 	releaseall
 	end
 
@@ -62,15 +55,3 @@ LevelScripts_scriptprof_Movementprof3:
 
 LevelScripts_scriptprof_Movementplayer1:
 	.byte walk_down, walk_down, walk_left, walk_down, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, walk_down, walk_down, walk_right, walk_right, walk_right, walk_up_very_slow, end_m
-
-LevelScripts_scriptprof_Movecamera3:
-	.byte walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, end_m
-
-LevelScripts_scriptprof_Movecamera4:
-	.byte walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, end_m
-
-LevelScripts_scriptprof_Movementplayer2:
-	.byte say_smile, end_m
-
-LevelScripts_scriptprof_Movementplayer3:
-	.byte walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_left_slow, look_up, end_m

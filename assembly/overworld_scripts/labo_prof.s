@@ -15,6 +15,7 @@ LevelScripts_Scriptprofpart2_Scripts:
 
 LevelScripts_Scriptprofpart2_Script:
     lockall
+    pause 0x1E
     special 0x113
     applymovement CAMERA LevelScripts_Scriptprofpart2_Movecamera3
     waitmovement CAMERA
@@ -28,6 +29,7 @@ LevelScripts_Scriptprofpart2_Script:
     waitmovement PLAYER
     applymovement PLAYER LevelScripts_Scriptprofpart2_Movementplayer3  
     waitmovement PLAYER
+    setvar VAR_HISTOIRE_PRINCIPALE 0x2
     releaseall
     end
 
