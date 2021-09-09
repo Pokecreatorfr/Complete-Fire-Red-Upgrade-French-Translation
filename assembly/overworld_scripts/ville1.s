@@ -25,20 +25,20 @@ LevelScripts_scriptprof_Script:
 	pause 0x1E
 	playsong 0x12E 0x0
 	special 0x113
-	applymovement 0x7F LevelScripts_scriptprof_Movecamera1
-	waitmovement 0x7F
+	applymovement CAMERA LevelScripts_scriptprof_Movecamera1
+	waitmovement CAMERA
 	special 0x114
 	applymovement 0x1 LevelScripts_scriptprof_Movementprof1
 	waitmovement 0x1
 	textcolor 0x7
 	msgbox gText_scriptprof_Messageprof1 0x3
 	special 0x113
-	applymovement 0x7F LevelScripts_scriptprof_Movecamera2
+	applymovement CAMERA LevelScripts_scriptprof_Movecamera2
 	applymovement 0x1 LevelScripts_scriptprof_Movementprof2
 	waitmovement 0x1
 	special 0x114
 	msgbox gText_scriptprof_Messageprof2 0x3
-	applymovement 0xFF LevelScripts_scriptprof_Movementplayer1
+	applymovement PLAYER LevelScripts_scriptprof_Movementplayer1
 	applymovement 0x1 LevelScripts_scriptprof_Movementprof3
 	waitmovement 0x1
 	fadescreen 0x0
@@ -48,123 +48,31 @@ LevelScripts_scriptprof_Script:
 	end
 
 LevelScripts_scriptprof_Movecamera1:
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x12
-.byte 0x12
-.byte 0x12
-.byte 0x12
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0xFE
+	.byte walk_down , walk_down, walk_down, walk_down, walk_left, walk_left, walk_left, walk_left, walk_downwalk_down, walk_down, walk_down, end_m
 
 LevelScripts_scriptprof_Movementprof1:
-.byte 0x65
-.byte 0xFE
+	.byte say_double_exclaim, end_m
 
 LevelScripts_scriptprof_Movecamera2:
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0x13
-.byte 0x13
-.byte 0x13
-.byte 0x13
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0xFE
+	.byte walk_up, walk_up, walk_up, walk_up, walk_right, walk_right, walk_right, walk_right, walk_up, walk_up, walk_up, walk_up, end_m
 
 LevelScripts_scriptprof_Movementprof2:
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0x11
-.byte 0x13
-.byte 0x13
-.byte 0x11
-.byte 0x13
-.byte 0x13
-.byte 0x11
-.byte 0xFE
+	.byte walk_up, walk_up, walk_up, walk_up, walk_up, walk_up, walk_right, walk_right, walk_up, walk_right, walk_right, walk_up, end_m
 
 LevelScripts_scriptprof_Movementprof3:
-.byte 0x10
-.byte 0x12
-.byte 0x10
-.byte 0x12
-.byte 0x12
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x13
-.byte 0x13
-.byte 0x13
-.byte 0x08
-.byte 0xFE
+	.byte walk_down, walk_left, walk_down, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, walk_down, walk_down, walk_right, walk_right, walk_right, walk_down_very_slow, end_m
 
 LevelScripts_scriptprof_Movementplayer1:
-.byte 0x10
-.byte 0x10
-.byte 0x12
-.byte 0x10
-.byte 0x12
-.byte 0x12
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x10
-.byte 0x13
-.byte 0x13
-.byte 0x13
-.byte 0x08
-.byte 0xFE
+	.byte walk_down, walk_down, walk_left, walk_down, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, walk_down, walk_down, walk_right, walk_right, walk_right, walk_down_very_slow, end_m
 
 LevelScripts_scriptprof_Movecamera3:
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0xFE
+	.byte walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, end_m
 
 LevelScripts_scriptprof_Movecamera4:
-.byte 0x29
-.byte 0x29
-.byte 0x29
-.byte 0x29
-.byte 0x29
-.byte 0x29
-.byte 0xFE
+	.byte walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, walk_down_onspot_vfast, end_m
 
 LevelScripts_scriptprof_Movementplayer2:
-.byte 0x66
-.byte 0xFE
+	.byte say_smile, end_m
 
 LevelScripts_scriptprof_Movementplayer3:
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0x2A
-.byte 0x0E
-.byte 0x01
-.byte 0xFE
-
-
-
+	.byte walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_left_slow, look_up, end_m
