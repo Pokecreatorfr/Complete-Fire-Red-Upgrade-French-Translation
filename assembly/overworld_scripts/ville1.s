@@ -21,7 +21,7 @@ LevelScripts_scriptprof_Start:
 
 LevelScripts_scriptprof_Script:
 	lockall
-	setvar 0x4050 0x2
+	setvar VAR_HISTOIRE_PRINCIPALE 0x2
 	pause 0x1E
 	playsong 0x12E 0x0
 	special 0x113
@@ -48,7 +48,7 @@ LevelScripts_scriptprof_Script:
 	end
 
 LevelScripts_scriptprof_Movecamera1:
-	.byte walk_down , walk_down, walk_down, walk_down, walk_left, walk_left, walk_left, walk_left, walk_downwalk_down, walk_down, walk_down, end_m
+	.byte walk_down , walk_down, walk_down, walk_down, walk_left, walk_left, walk_left, walk_left, walk_down, walk_down, walk_down, walk_down, end_m
 
 LevelScripts_scriptprof_Movementprof1:
 	.byte say_double_exclaim, end_m

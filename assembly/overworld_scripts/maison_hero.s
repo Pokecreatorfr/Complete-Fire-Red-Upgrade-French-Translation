@@ -14,7 +14,7 @@ EventScript_script_descente_escaliers_premiere_fois1_Start:
 	applymovement 0x1 EventScript_script_descente_escaliers_premiere_fois1_Mouvement2
 	waitmovement 0x0
 	release
-	setvar 0x4050 0x1
+	setvar VAR_HISTOIRE_PRINCIPALE 0x1
 	end
 EventScript_script_descente_escaliers_premiere_fois1_Mouvement1:
 .byte 0x1
