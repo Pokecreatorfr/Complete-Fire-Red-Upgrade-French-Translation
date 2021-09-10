@@ -20,18 +20,20 @@ LevelScripts_Scriptprofpart2_Script:
     applymovement CAMERA LevelScripts_Scriptprofpart2_Movecamera3
     waitmovement CAMERA
     special 0x114
-    msgbox gText_scriptprof_Messageprof3 0x3
+    pause 0x1E
     special 0x113
     applymovement CAMERA LevelScripts_Scriptprofpart2_Movecamera4
     waitmovement CAMERA
     special 0x114
     applymovement PLAYER LevelScripts_Scriptprofpart2_Movementplayer2
     waitmovement PLAYER
+    pause 0x1E
     applymovement PLAYER LevelScripts_Scriptprofpart2_Movementplayer3  
     waitmovement PLAYER
     setvar VAR_HISTOIRE_PRINCIPALE 0x2
     releaseall
     end
+
 
 LevelScripts_Scriptprofpart2_Movecamera3:
 	.byte walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, walk_up_onspot_vfast, end_m
