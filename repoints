@@ -269,4 +269,12 @@ gUnknown_841F428 080f78dc
 gText_TextSpeedMid 083cc330
 gText_TextSpeedFast 083cc334
 gText_TextSpeedInstant 083cc338
+<<<<<<< Updated upstream
 #endif
+=======
+#endif
+
+interface_sacTiles 08108294
+interface_sacMap 081082BC
+interface_sacPal 08108304
+>>>>>>> Stashed changes
