@@ -35,7 +35,7 @@ LevelScripts_scriptprof_Script:
 	applymovement 0x1 LevelScripts_scriptprof_Movementprof3
 	waitmovement 0x1
 	releaseall
-	warp 0x4 0x2 0x0
+	warp 0x4 0x2 0xFF 0x8 0x
 	end
 
 LevelScripts_scriptprof_Movecamera1:
