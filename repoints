@@ -272,6 +272,10 @@ gText_TextSpeedInstant 083cc338
 <<<<<<< Updated upstream
 #endif
 
+##SAC
 interface_sacTiles 08108294
 interface_sacMap 081082BC
 interface_sacPal 08108304
+bag_mTiles 083D41E4
+bag_fTiles 083D41EC
+bag_mPal 3D41F4
