@@ -1,1 +1,1 @@
--g -gB4 -gu8 -gzl -p -pu16 -fts
+-g -gB8 -gu16 -gzl -p -pu32
